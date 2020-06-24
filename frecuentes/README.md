@@ -1,4 +1,4 @@
-### Andes Snomed Upgrade
+### Andes Snomed Upgrade - Frecuentes
 
 Guía para actualizar a la versión 2020 de Snomed. 
 

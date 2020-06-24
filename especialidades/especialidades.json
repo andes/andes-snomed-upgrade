@@ -1,0 +1,122 @@
+[
+    {
+        "conceptId": "722162001",
+        "term": "psicología",
+        "fsn": "psicología (calificador)",
+        "semanticTag": "calificador"
+    },
+    {
+        "conceptId": "394587001",
+        "term": "psiquiatría",
+        "fsn": "psiquiatría (calificador)",
+        "semanticTag": "calificador"
+    },
+    {
+        "conceptId": "6841000013101",
+        "term": "cuidados intensivos de adultos",
+        "fsn": "cuidados intensivos de adultos (calificador)",
+        "semanticTag": "calificador"
+    },
+    {
+        "conceptId": "394586005",
+        "term": "ginecología",
+        "fsn": "ginecología (calificador)",
+        "semanticTag": "calificador"
+    },
+    {
+        "conceptId": "394593009",
+        "term": "oncología médica",
+        "fsn": "oncología médica (calificador)",
+        "semanticTag": "calificador"
+    },
+    {
+        "conceptId": "394602003",
+        "term": "rehabilitación - especialidad",
+        "fsn": "rehabilitación - especialidad (calificador)",
+        "semanticTag": "calificador"
+    },
+    {
+        "conceptId": "419917007",
+        "term": "emergentología pediátrica",
+        "fsn": "emergentología pediátrica (calificador)",
+        "semanticTag": "calificador"
+    },
+    {
+        "conceptId": "408478003",
+        "term": "medicina crítica",
+        "fsn": "medicina crítica (calificador)",
+        "semanticTag": "calificador"
+    },
+    {
+        "conceptId": "394579002",
+        "term": "cardiología",
+        "fsn": "cardiología (calificador)",
+        "semanticTag": "calificador"
+    },
+    {
+        "conceptId": "419192003",
+        "term": "medicina interna",
+        "fsn": "medicina interna (calificador)",
+        "semanticTag": "calificador"
+    },
+    {
+        "conceptId": "394609007",
+        "term": "cirugía general",
+        "fsn": "cirugía general (calificador)",
+        "semanticTag": "calificador"
+    },
+    {
+        "fsn": "medicina general (calificador)",
+        "term": "medicina general",
+        "conceptId": "394802001",
+        "semanticTag": "calificador"
+    },
+    {
+        "conceptId": "408470005",
+        "term": "obstetricia",
+        "fsn": "obstetricia (calificador)",
+        "semanticTag": "calificador"
+    },
+    {
+        "conceptId": "394733009",
+        "term": "especialidad médica",
+        "fsn": "especialidad médica (calificador)",
+        "semanticTag": "calificador"
+    },
+    {
+        "conceptId": "6851000013104",
+        "term": "cuidados intensivos neonatales",
+        "fsn": "cuidados intensivos neonatales (calificador)",
+        "semanticTag": "calificador"
+    },
+    {
+        "conceptId": "394589003",
+        "term": "nefrología",
+        "fsn": "nefrología (calificador)",
+        "semanticTag": "calificador"
+    },
+    {
+        "conceptId": "408445005",
+        "term": "neonatología",
+        "fsn": "neonatología (calificador)",
+        "semanticTag": "calificador"
+    },
+    {
+        "conceptId": "394801008",
+        "term": "traumatología y ortopedia",
+        "fsn": "traumatología y ortopedia (calificador)",
+        "semanticTag": "calificador"
+    },
+    {
+        "conceptId": "394537008",
+        "term": "especialidad pediátrica",
+        "fsn": "especialidad pediátrica (calificador)",
+        "semanticTag": "calificador"
+    },
+    {
+        "conceptId": "419215006",
+        "term": "cuidados intensivos pediátricos",
+        "fsn": "cuidados intensivos pediátricos (calificador)",
+        "semanticTag": "calificador"
+    }
+]

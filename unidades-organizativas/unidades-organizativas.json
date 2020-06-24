@@ -1,0 +1,152 @@
+[
+    {
+        "conceptId": "7401000013103",
+        "term": "servicio de quirófanos",
+        "fsn": "servicio de quirófanos (medio ambiente)",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "conceptId": "310203004",
+        "term": "servicio de emergentología y urgencias pediátricas",
+        "fsn": "servicio de emergentología y urgencias pediátricas (medio ambiente)",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "fsn": "servicio de obstetricia (medio ambiente)",
+        "term": "servicio de obstetricia",
+        "conceptId": "3181000013105",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "conceptId": "3201000013106",
+        "term": "servicio de neonatología",
+        "fsn": "servicio de neonatología (medio ambiente)",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "conceptId": "7491000013105",
+        "term": "unidad de aislamiento para pacientes con COVID-19",
+        "fsn": "unidad de aislamiento para pacientes con COVID-19 (medio ambiente)",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "fsn": "servicio de medicina general (medio ambiente)",
+        "term": "servicio de medicina general",
+        "conceptId": "309927009",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "conceptId": "7221000013109",
+        "term": "servicio de auditoria de pacientes internados en terceros prestadores",
+        "fsn": "servicio de auditoria de pacientes internados en terceros prestadores (medio ambiente)",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "conceptId": "3191000013108",
+        "term": "servicio de ginecología",
+        "fsn": "servicio de ginecología (medio ambiente)",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "conceptId": "3251000013105",
+        "term": "servicio de cardiología infantil",
+        "fsn": "servicio de cardiología infantil (medio ambiente)",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "conceptId": "4571000013104",
+        "term": "unidad de cuidados intermedios para pacientes pediátricos",
+        "fsn": "unidad de cuidados intermedios para pacientes pediátricos (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "6861000013102",
+        "term": "hospital de día pediátrico",
+        "fsn": "hospital de día pediátrico (medio ambiente)",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "conceptId": "3161000013100",
+        "term": "servicio de clínica médica",
+        "fsn": "servicio de clínica médica (medio ambiente)",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "conceptId": "3211000013109",
+        "term": "servicio de pediatría",
+        "fsn": "servicio de pediatría (medio ambiente)",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "conceptId": "4581000013101",
+        "term": "unidad de cuidados intermedios de pacientes adultos",
+        "fsn": "unidad de cuidados intermedios de pacientes adultos (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "3171000013107",
+        "term": "servicio de clínica quirurgica",
+        "fsn": "servicio de clínica quirurgica (medio ambiente)",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "fsn": "servicio de terapia intensiva pediátrica (medio ambiente)",
+        "term": "servicio de terapia intensiva pediátrica",
+        "conceptId": "3231000013103",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "fsn": "servicio de terapia intensiva de adultos (medio ambiente)",
+        "term": "servicio de terapia intensiva de adultos",
+        "conceptId": "3221000013101",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "conceptId": "4691000013104",
+        "term": "centro de rehabilitación de adicciones",
+        "fsn": "centro de rehabilitación de adicciones (medio ambiente)",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "fsn": "servicio de cardiología (medio ambiente)",
+        "term": "servicio de cardiología",
+        "conceptId": "309915006",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "fsn": "servicio de salud mental (medio ambiente)",
+        "term": "servicio de salud mental",
+        "conceptId": "3261000013107",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "fsn": "servicio de traumatología (medio ambiente)",
+        "term": "servicio de traumatología",
+        "conceptId": "3271000013100",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "fsn": "servicio de adicciones (medio ambiente)",
+        "term": "servicio de adicciones",
+        "conceptId": "4561000013106",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "conceptId": "6871000013109",
+        "term": "unidad de cuidados para pacientes con COVID-19",
+        "fsn": "unidad de cuidados para pacientes con COVID-19 (medio ambiente)",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "conceptId": "3241000013108",
+        "term": "servicio de oncología",
+        "fsn": "servicio de oncología (medio ambiente)",
+        "semanticTag": "medio ambiente"
+    },
+    {
+        "conceptId": "309937004",
+        "term": "servicio de neurología",
+        "fsn": "servicio de neurología (medio ambiente)",
+        "semanticTag": "medio ambiente"
+    }
+]
