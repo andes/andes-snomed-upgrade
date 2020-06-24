@@ -1,0 +1,20 @@
+[
+    {
+        "fsn": "sangre oculta en materia fecal: positiva (hallazgo)",
+        "semanticTag": "hallazgo",
+        "conceptId": "167669009",
+        "term": "sangre oculta en materia fecal: positiva"
+    },
+    {
+        "fsn": "inserción intravenosa (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "386339009",
+        "term": "inserción intravenosa"
+    },
+    {
+        "semanticTag": "trastorno",
+        "conceptId": "92821006",
+        "term": "fisura de la cara",
+        "fsn": "fisura de la cara (trastorno)"
+    }
+]

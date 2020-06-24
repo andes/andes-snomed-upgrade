@@ -1,0 +1,1178 @@
+[
+    {
+        "conceptId": "162020001",
+        "fsn": "dificultad para masticar (hallazgo)",
+        "semanticTag": "hallazgo",
+        "term": "dificultad para masticar"
+    },
+    {
+        "conceptId": "278615005",
+        "fsn": "prótesis dental, presente (hallazgo)",
+        "semanticTag": "hallazgo",
+        "term": "prótesis dental, presente"
+    },
+    {
+        "conceptId": "271620003",
+        "fsn": "músculos respiratorios accesorios utilizados (hallazgo)",
+        "semanticTag": "hallazgo",
+        "term": "músculos respiratorios accesorios utilizados"
+    },
+    {
+        "fsn": "administración de fármaco o medicamento por vía intradérmica (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "386355002",
+        "term": "administración de medicación: intradérmica"
+    },
+    {
+        "fsn": "administración de fármaco o medicamento por vía oral (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "386359008",
+        "term": "administración de medicación: oral"
+    },
+    {
+        "fsn": "dosaje de glucosa en sangre capilar (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "302789003",
+        "term": "dosaje de glucosa en sangre capilar"
+    },
+    {
+        "fsn": "escucha activa (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "386507003",
+        "term": "escucha activa"
+    },
+    {
+        "fsn": "diabetes mellitus tipo 2 (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "44054006",
+        "term": "diabetes mellitus tipo 2"
+    },
+    {
+        "fsn": "fumador pasivo (hallazgo)",
+        "semanticTag": "hallazgo",
+        "conceptId": "43381005",
+        "term": "fumador pasivo"
+    },
+    {
+        "fsn": "apoyo emocional (régimen/tratamiento)",
+        "semanticTag": "régimen/tratamiento",
+        "conceptId": "133921002",
+        "term": "apoyo emocional"
+    },
+    {
+        "fsn": "derivación urgente (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "134403003",
+        "term": "derivación urgente"
+    },
+    {
+        "fsn": "asesoramiento (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "409063005",
+        "term": "asesoramiento"
+    },
+    {
+        "fsn": "administración de fármaco o medicamento por vía intravenosa (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "386358000",
+        "term": "administración de medicación: intravenosa"
+    },
+    {
+        "fsn": "agudeza visual (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "363983007",
+        "term": "agudeza visual"
+    },
+    {
+        "fsn": "monitoreo cardíaco (régimen/tratamiento)",
+        "semanticTag": "régimen/tratamiento",
+        "conceptId": "23852006",
+        "term": "monitoreo cardíaco"
+    },
+    {
+        "fsn": "instilación de gotas midriáticas en el ojo (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "424986007",
+        "term": "instilación de gotas midriáticas en el ojo"
+    },
+    {
+        "fsn": "desbridamiento de herida con agente tópico (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "225149002",
+        "term": "desbridamiento de herida con agente tópico"
+    },
+    {
+        "fsn": "higiene de herida (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "364555005",
+        "term": "higiene de herida"
+    },
+    {
+        "fsn": "limpieza de herida (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "225150002",
+        "term": "limpieza de herida"
+    },
+    {
+        "fsn": "convocatoria para control (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "308536008",
+        "term": "convocatoria para control"
+    },
+    {
+        "fsn": "derivación a (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "440379008",
+        "term": "derivación a"
+    },
+    {
+        "fsn": "convocatoria para inmunización (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "308433002",
+        "term": "convocatoria para inmunización"
+    },
+    {
+        "fsn": "remoción de suturas/grampas de piel (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "184043001",
+        "term": "remoción de suturas/clips de piel"
+    },
+    {
+        "fsn": "enema por irrigación (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "31837000",
+        "term": "enema por irrigación"
+    },
+    {
+        "fsn": "procedimiento electrocardiográfico (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "29303009",
+        "term": "electrocardiograma"
+    },
+    {
+        "fsn": "frecuencia cardíaca fetal (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "249043002",
+        "term": "frecuencia cardíaca fetal"
+    },
+    {
+        "fsn": "depuración de secreciones del tracto respiratorio (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "427391006",
+        "term": "depuración de secreciones del tracto respiratorio"
+    },
+    {
+        "fsn": "aspiración (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "14766002",
+        "term": "aspiración"
+    },
+    {
+        "fsn": "vendaje de herida (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "182531007",
+        "term": "vendaje de herida"
+    },
+    {
+        "fsn": "aspiración del paciente (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "58058006",
+        "term": "aspiración del paciente"
+    },
+    {
+        "fsn": "cateterismo (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "45211000",
+        "term": "inserción de un catéter"
+    },
+    {
+        "fsn": "tratamiento de la fiebre (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "386305005",
+        "term": "tratamiento de la fiebre"
+    },
+    {
+        "fsn": "hidroterapia con baño de agua fría (régimen/tratamiento)",
+        "semanticTag": "régimen/tratamiento",
+        "conceptId": "88532006",
+        "term": "hidroterapia de baño frío"
+    },
+    {
+        "fsn": "administración de fármaco o medicamento por vía subcutánea (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "386362006",
+        "term": "administración de medicación: subcutánea"
+    },
+    {
+        "fsn": "hidroterapia (régimen/tratamiento)",
+        "semanticTag": "régimen/tratamiento",
+        "conceptId": "46903006",
+        "term": "baño terapéutico"
+    },
+    {
+        "conceptId": "61746007",
+        "term": "registrar los signos vitales del paciente",
+        "fsn": "registrar los signos vitales del paciente (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "5921000013105",
+        "term": "procedimiento realizado en domicilio del sujeto",
+        "fsn": "procedimiento realizado en domicilio del sujeto (situación)",
+        "semanticTag": "situación"
+    },
+    {
+        "fsn": "aplicación de una vacuna para producir inmunidad activa (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "33879002",
+        "term": "vacunación"
+    },
+    {
+        "fsn": "convocatoria para cribado (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "308535007",
+        "term": "convocatoria para screening"
+    },
+    {
+        "semanticTag": "trastorno",
+        "conceptId": "92821006",
+        "term": "fisura de la cara",
+        "fsn": "fisura de la cara (trastorno)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "82599007",
+        "term": "arreglo con amalgama, cuatro superficies o más, permanente",
+        "fsn": "arreglo con amalgama, cuatro superficies o más, permanente (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "76465003",
+        "term": "arreglo, resina, una superficie, posterior, primario",
+        "fsn": "arreglo, resina, una superficie, posterior, primario (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "76076008",
+        "term": "arreglo con amalgama, tres superficies, permanente",
+        "fsn": "arreglo con amalgama, tres superficies, permanente (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "75954006",
+        "term": "tipo IV, periodontitis avanzada, tratamiento de la bolsa gingival profunda",
+        "fsn": "tipo IV, periodontitis avanzada, tratamiento de la bolsa gingival profunda (procedimiento)"
+    },
+    {
+        "fsn": "reanimación cardiopulmonar (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "89666000",
+        "term": "reanimación cardiopulmonar"
+    },
+    {
+        "fsn": "inserción de catéter vascular (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "429446009",
+        "term": "inserción de catéter vascular"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "70928001",
+        "term": "arreglo, resina, una superficie, posterior, permanente",
+        "fsn": "arreglo, resina, una superficie, posterior, permanente (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "68381003",
+        "term": "remoción quirúrgica de diente erupcionado con elevación de colgajo mucoperióstico y remoción de hueso y/o sección del diente",
+        "fsn": "remoción quirúrgica de diente erupcionado con elevación de colgajo mucoperióstico y remoción de hueso y/o sección del diente (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "64544008",
+        "term": "gingivectomía o gingivoplastia, por cada diente",
+        "fsn": "gingivectomía o gingivoplastia, por cada diente (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "59789006",
+        "term": "tipo I, gingivitis, tratamiento de bolsa gingival superficial",
+        "fsn": "tipo I, gingivitis, tratamiento de bolsa gingival superficial (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "57084002",
+        "term": "arreglo con amalgama, dos superficies, primario",
+        "fsn": "arreglo con amalgama, dos superficies, primario (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "56289008",
+        "term": "tratamiento de conducto, retratamiento de un premolar, explicado por el informe",
+        "fsn": "tratamiento de conducto, retratamiento de un premolar, explicado por el informe (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "51243002",
+        "term": "apexificación/recalcificación, consulta intermedia",
+        "fsn": "apexificación/recalcificación, consulta intermedia (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "50585009",
+        "term": "extracción dental múltiple",
+        "fsn": "extracción dental múltiple (procedimiento)"
+    },
+    {
+        "fsn": "educación, guía y asesoramiento en promoción de la salud (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410314003",
+        "term": "educación, guía y asesoramiento en promoción de la salud"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "48669003",
+        "term": "arreglo con amalgama, una superficie, permanente",
+        "fsn": "arreglo con amalgama, una superficie, permanente (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "46069009",
+        "term": "arreglo, resina, tres superficies, anterior",
+        "fsn": "arreglo, resina, tres superficies, anterior (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "439761003",
+        "term": "toma de impresión para creación de prótesis obturatriz intermedia a medida",
+        "fsn": "toma de impresión para creación de prótesis obturatriz intermedia a medida (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "416564000",
+        "term": "drenaje de absceso bucal",
+        "fsn": "drenaje de absceso bucal (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "4035003",
+        "term": "arreglo, resina, dos superficies, posterior, permanente",
+        "fsn": "arreglo, resina, dos superficies, posterior, permanente (procedimiento)"
+    },
+    {
+        "semanticTag": "trastorno",
+        "conceptId": "41888000",
+        "term": "trastorno de la articulación temporomandibular",
+        "fsn": "trastorno de la articulación temporomandibular (trastorno)"
+    },
+    {
+        "semanticTag": "trastorno",
+        "conceptId": "386207004",
+        "term": "síndrome de disfunción dolorosa de la articulación temporomandibular",
+        "fsn": "síndrome de disfunción dolorosa de la articulación temporomandibular (trastorno)"
+    },
+    {
+        "conceptId": "161527007",
+        "fsn": "antecedente de: asma (situación)",
+        "semanticTag": "situación",
+        "term": "antecedente de: asma"
+    },
+    {
+        "fsn": "síntoma digestivo (hallazgo)",
+        "semanticTag": "hallazgo",
+        "conceptId": "308925008",
+        "term": "síntoma digestivo"
+    },
+    {
+        "fsn": "características de la frecuencia cardíaca fetal basal (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "364622005",
+        "term": "características de la frecuencia cardíaca fetal basal"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "26119007",
+        "term": "extracción de diente temporario",
+        "fsn": "extracción de diente temporario (procedimiento)"
+    },
+    {
+        "conceptId": "60845006",
+        "fsn": "disnea de esfuerzo (hallazgo)",
+        "semanticTag": "hallazgo",
+        "term": "disnea de esfuerzo"
+    },
+    {
+        "fsn": "procedimiento de certificación (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "310417005",
+        "term": "procedimiento de certificación"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 3 años (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410634009",
+        "term": "consulta de niño sano, a los 3 años (procedimiento)"
+    },
+    {
+        "fsn": "examen de garganta, nariz y oído (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "113028003",
+        "term": "examen de garganta, nariz y oído"
+    },
+    {
+        "fsn": "primera falla en el cribado para la detección de alteraciones en la audición en el niño (hallazgo)",
+        "semanticTag": "hallazgo",
+        "conceptId": "185577006",
+        "term": "primera falla en el cribado para la detección de alteraciones en la audición en el niño"
+    },
+    {
+        "fsn": "procedimiento de vendaje (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "118481004",
+        "term": "procedimiento de vendaje"
+    },
+    {
+        "fsn": "aplicación de yeso (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "180289009",
+        "term": "aplicación de yeso"
+    },
+    {
+        "fsn": "recolección de espécimen (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "17636008",
+        "term": "recolección de muestra"
+    },
+    {
+        "fsn": "evaluación de lesión traumática (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "225391007",
+        "term": "evaluación de lesión traumática"
+    },
+    {
+        "fsn": "artritis (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "3723001",
+        "term": "artritis"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 8 años (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410640002",
+        "term": "consulta de niño sano, a los 8 años"
+    },
+    {
+        "fsn": "lavado gástrico (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "173830003",
+        "term": "lavado gástrico"
+    },
+    {
+        "fsn": "tendinitis (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "34840004",
+        "term": "tendinitis"
+    },
+    {
+        "fsn": "neoplasia del recto (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "126847008",
+        "term": "tumor del recto"
+    },
+    {
+        "fsn": "anemia (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "271737000",
+        "term": "anemia"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "234696006",
+        "term": "remoción de sarro y pulido dental",
+        "fsn": "remoción de sarro y pulido dental (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "241047004",
+        "term": "radiografía periapical de diente",
+        "fsn": "radiografía periapical de diente (procedimiento)"
+    },
+    {
+        "conceptId": "416098002",
+        "fsn": "alergia medicamentosa (trastorno)",
+        "semanticTag": "trastorno",
+        "term": "alergia medicamentosa"
+    },
+    {
+        "conceptId": "422587007",
+        "fsn": "náuseas (hallazgo)",
+        "semanticTag": "hallazgo",
+        "term": "náuseas"
+    },
+    {
+        "fsn": "colitis (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "64226004",
+        "term": "colitis"
+    },
+    {
+        "fsn": "terapia con broncodilatador inhalado (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "127784009",
+        "term": "terapia con broncodilatador inhalado"
+    },
+    {
+        "fsn": "terapia con nebulizador (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "56251003",
+        "term": "terapia con nebulizador"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "57703000",
+        "term": "extracción de diente permanente",
+        "fsn": "extracción de diente permanente (procedimiento)"
+    },
+    {
+        "conceptId": "14456009",
+        "term": "medir la altura del paciente (procedimiento)",
+        "fsn": "medir la altura del paciente (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "91438000",
+        "term": "arreglo con amalgama, una superficie, primario",
+        "fsn": "arreglo con amalgama, una superficie, primario (procedimiento)"
+    },
+    {
+        "fsn": "enfermedad diverticular (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "397881000",
+        "term": "diverticulosis"
+    },
+    {
+        "fsn": "segunda falla en el cribado para la detección de alteraciones en la audición en el niño (hallazgo)",
+        "semanticTag": "hallazgo",
+        "conceptId": "185579009",
+        "term": "segunda falla en el cribado para la detección de alteraciones en la audición en el niño"
+    },
+    {
+        "fsn": "colonoscopia (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "73761001",
+        "term": "colonoscopia"
+    },
+    {
+        "conceptId": "27113001",
+        "term": "peso corporal",
+        "fsn": "peso corporal (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "fsn": "colonoscopia de control (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "310634005",
+        "term": "colonoscopia de control"
+    },
+    {
+        "fsn": "lugar de nacimiento (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "169812000",
+        "term": "lugar de nacimiento"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "45447002",
+        "term": "arreglo con amalgama, cuatro superficies o más, primario",
+        "fsn": "arreglo con amalgama, cuatro superficies o más, primario (procedimiento)"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 3 meses (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "2591000013106",
+        "term": "consulta de niño sano, a los 3 meses (procedimiento)"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 6 meses (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410627007",
+        "term": "consulta de niño sano, a los 6 meses (procedimiento)"
+    },
+    {
+        "fsn": "no fumador (hallazgo)",
+        "semanticTag": "hallazgo",
+        "conceptId": "8392000",
+        "term": "no fumador"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "42123008",
+        "term": "tipo III, periodontitis moderada, tratamiento de la bolsa gingival moderada a profunda",
+        "fsn": "tipo III, periodontitis moderada, tratamiento de la bolsa gingival moderada a profunda (procedimiento)"
+    },
+    {
+        "fsn": "hemorroides (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "70153002",
+        "term": "hemorroides"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 6 años (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410638007",
+        "term": "consulta de niño sano, a los 6 años (procedimiento)"
+    },
+    {
+        "fsn": "administración de enema al paciente (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "61919008",
+        "term": "administración de enema al paciente"
+    },
+    {
+        "fsn": "omalgia (hallazgo)",
+        "semanticTag": "hallazgo",
+        "conceptId": "20793008",
+        "term": "omalgia"
+    },
+    {
+        "fsn": "procedimiento sobre herida (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "442460002",
+        "term": "procedimiento sobre herida"
+    },
+    {
+        "fsn": "procedimiento sobre sonda vesical (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "182524008",
+        "term": "procedimiento sobre sonda vesical"
+    },
+    {
+        "conceptId": "252156002",
+        "fsn": "detección selectiva de sangre oculta en materia fecal (procedimiento)",
+        "semanticTag": "procedimiento",
+        "term": "tamizaje de sangre oculta en materia fecal"
+    },
+    {
+        "fsn": "consulta de niño sano (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410620009",
+        "term": "consulta de niño sano"
+    },
+    {
+        "conceptId": "60621009",
+        "term": "índice de masa corporal",
+        "fsn": "índice de masa corporal (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "fsn": "cervicodinia (hallazgo)",
+        "semanticTag": "hallazgo",
+        "conceptId": "81680005",
+        "term": "cervicalgia"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "243086005",
+        "term": "educación acerca del cepillado dental",
+        "fsn": "educación acerca del cepillado dental (procedimiento)"
+    },
+    {
+        "conceptId": "46973005",
+        "term": "medir la presión arterial",
+        "fsn": "medir la presión arterial (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "procedimientos en el ámbito escolar (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "5091000013108",
+        "term": "procedimientos en el ámbito escolar"
+    },
+    {
+        "fsn": "Consulta de toma de muestra de HPV (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "1701000013101",
+        "term": "Consulta de toma de muestra de HPV"
+    },
+    {
+        "fsn": "preparación de un certificado médico (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "103695000",
+        "term": "certificado médico"
+    },
+    {
+        "fsn": "anestesia para procedimiento endoscópico (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "72116000",
+        "term": "anestesia para procedimiento endoscópico"
+    },
+    {
+        "fsn": "colonoscopia para cribado (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "444783004",
+        "term": "colonoscopia para tamizaje"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 4 años (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410636006",
+        "term": "consulta de niño sano, a los 4 años (procedimiento)"
+    },
+    {
+        "fsn": "hipertensión arterial (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "38341003",
+        "term": "hipertensión arterial"
+    },
+    {
+        "fsn": "proctitis (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "3951002",
+        "term": "proctitis"
+    },
+    {
+        "conceptId": "266987004",
+        "fsn": "antecedente de: neoplasia maligna (situación)",
+        "semanticTag": "situación",
+        "term": "antecedente de: neoplasia maligna"
+    },
+    {
+        "fsn": "mamografía para cribado (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "24623002",
+        "term": "mamografía para screening"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 5 años (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410637002",
+        "term": "consulta de niño sano, a los 5 años (procedimiento)"
+    },
+    {
+        "fsn": "fumador (hallazgo)",
+        "semanticTag": "hallazgo",
+        "conceptId": "77176002",
+        "term": "fumador"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 9 años (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410641003",
+        "term": "consulta de niño sano, a los 9 años"
+    },
+    {
+        "fsn": "aspiración orofaríngea (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "84856008",
+        "term": "aspiración orofaríngea"
+    },
+    {
+        "fsn": "limpieza por aspiración de cavidad nasal (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "308721008",
+        "term": "limpieza por aspiración de cavidad nasal"
+    },
+    {
+        "fsn": "neoplasia del colon (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "126838000",
+        "term": "Tumor de colon"
+    },
+    {
+        "fsn": "artrosis (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "396275006",
+        "term": "artrosis"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 2 años y medio (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "2611000013100",
+        "term": "consulta de niño sano, a los 2 años y medio"
+    },
+    {
+        "fsn": "examen endoscópico diagnóstico sobre colon (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "174184006",
+        "term": "colonoscopia diagnóstica"
+    },
+    {
+        "fsn": "colocación de una sonda nasogástrica (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "87750000",
+        "term": "colocación de una sonda nasogástrica"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "304502009",
+        "term": "biopsia de boca",
+        "fsn": "biopsia de boca (procedimiento)"
+    },
+    {
+        "fsn": "instilación (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "55870005",
+        "term": "instilación"
+    },
+    {
+        "fsn": "consulta de niño sano, a las 2 semanas (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410623006",
+        "term": "consulta de niño sano, a las 2 semanas (procedimiento)"
+    },
+    {
+        "fsn": "aplicación de férula externa (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "239665000",
+        "term": "aplicación de férula externa"
+    },
+    {
+        "fsn": "toma de muestra de vagina para extendido de Papanicolaou (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "440614003",
+        "term": "obtención de muestra de vagina para extendido de Papanicolaou"
+    },
+    {
+        "semanticTag": "trastorno",
+        "conceptId": "109753007",
+        "term": "fractura de corona dental, esmalte y dentina, con exposición de la pulpa",
+        "fsn": "fractura de corona dental, esmalte y dentina, con exposición de la pulpa (trastorno)"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 3 años y medio (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "2621000013108",
+        "term": "consulta de niño sano, a los 3 años y medio (procedimiento)"
+    },
+    {
+        "fsn": "colonoscopia terapéutica (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "303587008",
+        "term": "colonoscopia terapéutica"
+    },
+    {
+        "fsn": "Procedimiento incompleto (situación)",
+        "semanticTag": "situación",
+        "conceptId": "2001000013107",
+        "term": "Procedimiento incompleto"
+    },
+    {
+        "conceptId": "288939007",
+        "fsn": "dificultad para deglutir (hallazgo)",
+        "semanticTag": "hallazgo",
+        "term": "dificultad para deglutir"
+    },
+    {
+        "fsn": "pólipo de colon (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "68496003",
+        "term": "pólipo colónico"
+    },
+    {
+        "fsn": "colonoscopia normal (hallazgo)",
+        "semanticTag": "hallazgo",
+        "conceptId": "313170008",
+        "term": "colonoscopia normal"
+    },
+    {
+        "fsn": "índice de experiencia en caries dentales (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "251313004",
+        "term": "índice de experiencia en caries dentales"
+    },
+    {
+        "fsn": "examen incompleto por preparación inadecuada (hallazgo)",
+        "semanticTag": "hallazgo",
+        "conceptId": "413262005",
+        "term": "examen incompleto por preparación inadecuada"
+    },
+    {
+        "fsn": "administración de medicación mediante máscara de nebulización (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "445141005",
+        "term": "administración de medicación mediante máscara de nebulización"
+    },
+    {
+        "fsn": "pólipo rectal (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "39772007",
+        "term": "pólipo rectal"
+    },
+    {
+        "fsn": "consulta de niño sano, recién nacido (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410621008",
+        "term": "consulta de niño sano, recién nacido"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 15 meses (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410631001",
+        "term": "consulta de niño sano, a los 15 meses (procedimiento)"
+    },
+    {
+        "fsn": "prueba de emisión otoacústica, normal (hallazgo)",
+        "term": "prueba de emisión otoacústica, normal",
+        "conceptId": "394891000",
+        "semanticTag": "hallazgo"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 18 meses (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410632008",
+        "term": "consulta de niño sano, a los 18 meses (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "31073008",
+        "term": "arreglo con amalgama, tres superficies, primario",
+        "fsn": "arreglo con amalgama, tres superficies, primario (procedimiento)"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 2 meses (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410624000",
+        "term": "consulta de niño sano, a los 2 meses (procedimiento)"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 4 meses (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410626003",
+        "term": "consulta de niño sano, a los 4 meses (procedimiento)"
+    },
+    {
+        "fsn": "rehidratación oral (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "281798001",
+        "term": "rehidratación oral"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "711033003",
+        "term": "refuerzo de adhesión a régimen de tratamiento",
+        "fsn": "refuerzo de adhesión a régimen de tratamiento (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "234702006",
+        "term": "biopulpectomía parcial",
+        "fsn": "biopulpectomía parcial (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "287443001",
+        "term": "drenaje de absceso facial",
+        "fsn": "drenaje de absceso facial (procedimiento)"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 21 meses (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "2601000013103",
+        "term": "consulta de niño sano, a los 21 meses (procedimiento)"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 9 meses (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410628002",
+        "term": "consulta de niño sano, a los 9 meses (procedimiento)"
+    },
+    {
+        "fsn": "administración de fármaco o medicamento por vía intramuscular (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "386356001",
+        "term": "administración de medicación: intramuscular"
+    },
+    {
+        "semanticTag": "trastorno",
+        "conceptId": "109752002",
+        "term": "fractura de corona dental, esmalte y dentina, sin exposición de la pulpa",
+        "fsn": "fractura de corona dental, esmalte y dentina, sin exposición de la pulpa (trastorno)"
+    },
+    {
+        "fsn": "consulta de niño sano, al mes (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "2581000013108",
+        "term": "consulta de niño sano, al mes (procedimiento)"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 2 años (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410633003",
+        "term": "consulta de niño sano, a los 2 años"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 12 meses (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410629005",
+        "term": "consulta de niño sano, a los 12 meses"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "10775006",
+        "term": "tratamiento de conducto, retratamiento de un molar, explicado por el informe",
+        "fsn": "tratamiento de conducto, retratamiento de un molar, explicado por el informe (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "241048009",
+        "term": "radiografía dental oclusal",
+        "fsn": "radiografía dental oclusal (procedimiento)"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 7 años (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410639004",
+        "term": "consulta de niño sano, a los 7 años"
+    },
+    {
+        "fsn": "odontograma (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "conceptId": "3561000013109",
+        "term": "odontograma"
+    },
+    {
+        "fsn": "sangre oculta en materia fecal: positiva (hallazgo)",
+        "semanticTag": "hallazgo",
+        "conceptId": "167669009",
+        "term": "sangre oculta en materia fecal: positiva"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "15224009",
+        "term": "reimplante intencional con ferulización",
+        "fsn": "reimplante intencional con ferulización (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "234700003",
+        "term": "preparación de cavidad dental - acceso pulpar",
+        "fsn": "preparación de cavidad dental - acceso pulpar (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "23580000",
+        "term": "hemisección del diente",
+        "fsn": "hemisección del diente (procedimiento)"
+    },
+    {
+        "fsn": "inserción intravenosa (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "386339009",
+        "term": "inserción intravenosa"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "18076000",
+        "term": "arreglo, resina, dos superficies, anterior",
+        "fsn": "arreglo, resina, dos superficies, anterior (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "277554000",
+        "term": "colocación de cemento de ionómero de vidrio en diente",
+        "fsn": "colocación de cemento de ionómero de vidrio en diente (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "24717000",
+        "term": "arreglo, resina, tres o más superficies, posterior, permanente",
+        "fsn": "arreglo, resina, tres o más superficies, posterior, permanente (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "234713009",
+        "term": "sellado de fisura dental",
+        "fsn": "sellado de fisura dental (procedimiento)"
+    },
+    {
+        "fsn": "instilación de colirio (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "225698005",
+        "term": "instilación de colirio"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "37106006",
+        "term": "arreglo, resina, tres o más superficies, posterior, primario",
+        "fsn": "arreglo, resina, tres o más superficies, posterior, primario (procedimiento)"
+    },
+    {
+        "fsn": "Procedimiento completo (situación)",
+        "semanticTag": "situación",
+        "conceptId": "2011000013105",
+        "term": "Procedimiento completo"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "234726008",
+        "term": "ajuste oclusal",
+        "fsn": "ajuste oclusal (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "234745004",
+        "term": "toma de impresión bucal o dental",
+        "fsn": "toma de impresión bucal o dental (procedimiento)"
+    },
+    {
+        "conceptId": "86198006",
+        "term": "vacunación antigripal",
+        "fsn": "vacunación antigripal (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "234761002",
+        "term": "toma de impresión para prótesis dental",
+        "fsn": "toma de impresión para prótesis dental (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "29035001",
+        "term": "arreglo, resina, dos superficies, posterior, primario",
+        "fsn": "arreglo, resina, dos superficies, posterior, primario (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "281674000",
+        "term": "diseño de prótesis dental",
+        "fsn": "diseño de prótesis dental (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "30122005",
+        "term": "arreglo, resina, una superficie, anterior",
+        "fsn": "arreglo, resina, una superficie, anterior (procedimiento)"
+    },
+    {
+        "conceptId": "161941007",
+        "fsn": "disnea en reposo (hallazgo)",
+        "semanticTag": "hallazgo",
+        "term": "disnea en reposo"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "31196005",
+        "term": "arreglo con amalgama, dos superficies, permanente",
+        "fsn": "arreglo con amalgama, dos superficies, permanente (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "58814005",
+        "term": "tratamiento de conducto, retratamiento, anterior, explicado por el informe",
+        "fsn": "tratamiento de conducto, retratamiento, anterior, explicado por el informe (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "312389006",
+        "term": "reparación inmediata de comunicación bucosinusal",
+        "fsn": "reparación inmediata de comunicación bucosinusal (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "313042009",
+        "term": "aplicación de topicación dental con flúor",
+        "fsn": "aplicación de topicación dental con flúor (procedimiento)"
+    }
+]
