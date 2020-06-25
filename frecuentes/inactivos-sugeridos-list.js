@@ -13,6 +13,7 @@ async function main() {
                 frecuencia: concept.total,
                 conceptId: concept.conceptId,
                 term: concept.fsn,
+                semanticTag: concept.semanticTag,
                 razon_inactivo: item.razon.pt.term,
                 tipo_reemplazo: item.tipo,
                 replace_id: item.replace && item.replace.conceptId,

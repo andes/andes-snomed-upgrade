@@ -1,0 +1,664 @@
+[
+    {
+        "conceptId": "7161000013105",
+        "fsn": "registro intraoperatorio del médico (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "registro intraoperatorio del médico"
+    },
+    {
+        "conceptId": "417037004",
+        "fsn": "registro intraoperatorio de enfermería (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "registro intraoperatorio de enfermería"
+    },
+    {
+        "conceptId": "6461000013100",
+        "fsn": "sección de evaluación de paciente internado realizada por enfermería (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección de evaluación de paciente internado realizada por enfermería"
+    },
+    {
+        "conceptId": "6951000013108",
+        "fsn": "profesional derivante (persona)",
+        "semanticTag": "persona",
+        "term": "profesional derivante"
+    },
+    {
+        "conceptId": "6961000013105",
+        "fsn": "profesional que recibe al paciente derivado (persona)",
+        "semanticTag": "persona",
+        "term": "profesional que recibe al paciente derivado"
+    },
+    {
+        "conceptId": "6501000013100",
+        "fsn": "sección de indicaciones de enfermería (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección de indicaciones de enfermería"
+    },
+    {
+        "conceptId": "6551000013101",
+        "fsn": "informe de evolución de paciente internado realizado por enfermería (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "informe de evolución de paciente internado realizado por enfermería"
+    },
+    {
+        "conceptId": "6771000013100",
+        "fsn": "informe de evolución de paciente internado realizado por profesional no médico (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "informe de evolución de paciente internado realizado por profesional no médico"
+    },
+    {
+        "conceptId": "3631000013101",
+        "term": "pautas de alarma post internación",
+        "fsn": "pautas de alarma post internación (elemento de registro)",
+        "semanticTag": "elemento de registro"
+    },
+    {
+        "fsn": "percentilo de peso (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "248356008",
+        "term": "percentilo de peso"
+    },
+    {
+        "conceptId": "3611000013107",
+        "term": "tratamiento a seguir post internación",
+        "fsn": "tratamiento a seguir post internación (elemento de registro)",
+        "semanticTag": "elemento de registro"
+    },
+    {
+        "fsn": "perímetro cefálico (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "363812007",
+        "term": "perímetro cefálico"
+    },
+    {
+        "conceptId": "6491000013108",
+        "fsn": "sección de indicaciones médicas (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección de indicaciones médicas"
+    },
+    {
+        "fsn": "anestesia para endoscopia anorrectal (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "48372002",
+        "term": "anestesia para endoscopia anorrectal"
+    },
+    {
+        "fsn": "cantidad de minutos (entidad observable)",
+        "term": "cantidad de minutos",
+        "conceptId": "417239007",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "conceptId": "430147008",
+        "fsn": "seguimiento del equilibrio hídrico (régimen/tratamiento)",
+        "semanticTag": "régimen/tratamiento",
+        "term": "seguimiento del equilibrio hídrico"
+    },
+    {
+        "conceptId": "84698008",
+        "term": "colesterol",
+        "fsn": "colesterol (sustancia)",
+        "semanticTag": "sustancia"
+    },
+    {
+        "conceptId": "4771000013105",
+        "term": "situaciones pendientes",
+        "fsn": "situaciones pendientes (elemento de registro)",
+        "semanticTag": "elemento de registro"
+    },
+    {
+        "conceptId": "3581000013104",
+        "term": "tratamiento recibido durante la internación",
+        "fsn": "tratamiento recibido durante la internación (elemento de registro)",
+        "semanticTag": "elemento de registro"
+    },
+    {
+        "conceptId": "107724000",
+        "fsn": "traslado del paciente (procedimiento)",
+        "semanticTag": "procedimiento",
+        "term": "traslado del paciente"
+    },
+    {
+        "conceptId": "3571000013102",
+        "term": "resumen de la internación",
+        "fsn": "resumen de la internación (elemento de registro)",
+        "semanticTag": "elemento de registro"
+    },
+    {
+        "fsn": "informe final (elemento de registro)",
+        "semanticTag": "hallazgo",
+        "conceptId": "445665009",
+        "term": "informe final"
+    },
+    {
+        "conceptId": "3601000013109",
+        "term": "resumen de procedimientos",
+        "fsn": "resumen de procedimientos(elemento de registro)",
+        "semanticTag": "elemento de registro"
+    },
+    {
+        "fsn": "duodenoscopia (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "80267006",
+        "languageCode": "spanish",
+        "term": "endoscopia del duodeno"
+    },
+    {
+        "fsn": "informe de alta (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "conceptId": "373942005",
+        "term": "informe de alta"
+    },
+    {
+        "conceptId": "6221000013107",
+        "fsn": "sección: evaluación de necesidades de comunicación y sensopercepción (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: evaluación de necesidades de comunicación y sensopercepción"
+    },
+    {
+        "fsn": "documento adjunto (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "1921000013108",
+        "term": "documento adjunto"
+    },
+    {
+        "conceptId": "6231000013105",
+        "fsn": "sección: evaluación inicial de necesidades espirituales (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: evaluación inicial de necesidades espirituales"
+    },
+    {
+        "conceptId": "37270008",
+        "term": "endoscopio",
+        "fsn": "endoscopio (objeto físico)",
+        "semanticTag": "objeto físico"
+    },
+    {
+        "fsn": "lactancia (calificador)",
+        "semanticTag": "calificador",
+        "conceptId": "3658006",
+        "term": "lactancia"
+    },
+    {
+        "conceptId": "425044008",
+        "fsn": "sección de examen físico (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección de examen físico"
+    },
+    {
+        "fsn": "centilo del índice de masa corporal (entidad observable)",
+        "semanticTag": "entidad observable",
+        "term": "centilo del índice de masa corporal",
+        "conceptId": "446974000"
+    },
+    {
+        "fsn": "longitud cabeza-talón (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "276353004",
+        "term": "Longitud decúbito supino"
+    },
+    {
+        "conceptId": "9908006",
+        "term": "desarrollo psicomotor en rango",
+        "fsn": "desarrollo psicomotor normal (hallazgo)",
+        "semanticTag": "hallazgo"
+    },
+    {
+        "conceptId": "6331000013102",
+        "fsn": "sección: indicaciones de alimentación parenteral (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: indicaciones de alimentación parenteral"
+    },
+    {
+        "conceptId": "422625006",
+        "fsn": "sección: antecedentes de enfermedad actual (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: antecedentes de enfermedad actual"
+    },
+    {
+        "conceptId": "103228002",
+        "term": "saturación de hemoglobina con oxígeno",
+        "fsn": "saturación de hemoglobina con oxígeno (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "conceptId": "3641000013106",
+        "term": "diagnóstico al egreso",
+        "fsn": "diagnóstico al egreso (elemento de registro)",
+        "semanticTag": "elemento de registro"
+    },
+    {
+        "conceptId": "3591000013101",
+        "term": "resumen de laboratorios",
+        "fsn": "resumen de laboratorios(elemento de registro)",
+        "semanticTag": "elemento de registro"
+    },
+    {
+        "fsn": "registrar las medidas antropometricas del paciente menor de 2 años (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "2551000013100",
+        "term": "registrar las medidas antropometricas del paciente menor de 2 años"
+    },
+    {
+        "fsn": "tensión arterial sistólica máxima (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "314439003",
+        "term": "tensión arterial sistólica máxima"
+    },
+    {
+        "conceptId": "408867002",
+        "term": "registro de la frecuencia respiratoria",
+        "fsn": "registro de la frecuencia respiratoria (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "2806008",
+        "term": "desarrollo psicomotor fuera de rango",
+        "fsn": "trastorno del desarrollo psicomotor (hallazgo)",
+        "semanticTag": "hallazgo"
+    },
+    {
+        "conceptId": "6191000013100",
+        "fsn": "sección: evaluación inicial de necesidades de movimiento y vestimenta (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: evaluación inicial de necesidades de movimiento y vestimenta"
+    },
+    {
+        "fsn": "percentilo de perímetro cefálico (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "248397001",
+        "term": "percentilo de perímetro cefálico"
+    },
+    {
+        "conceptId": "271650006",
+        "term": "presión arterial diastólica",
+        "fsn": "presión diastólica (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "conceptId": "364075005",
+        "term": "frecuencia cardíaca",
+        "fsn": "frecuencia cardíaca (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "conceptId": "27113001",
+        "term": "peso corporal",
+        "fsn": "peso corporal (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "fsn": "otoemisión acústica de oído izquierdo (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "2111000013109",
+        "term": "otoemisión acústica de oído izquierdo"
+    },
+    {
+        "conceptId": "6311000013108",
+        "fsn": "sección: indicaciones de medicación (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: indicaciones de medicación"
+    },
+    {
+        "conceptId": "900000000000003001",
+        "term": "dieta a seguir post internación",
+        "fsn": "dieta a seguir post internación (elemento de registro)",
+        "semanticTag": "elemento de registro"
+    },
+    {
+        "conceptId": "6971000013103",
+        "fsn": "motivos de derivación (calificador)",
+        "semanticTag": "calificador",
+        "term": "motivos de derivación"
+    },
+    {
+        "fsn": "registrar las medidas antropométricas del paciente menor entre 2 y 3 años (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "2561000013103",
+        "term": "registrar las medidas antropométricas del paciente menor entre 2 y 3 años"
+    },
+    {
+        "conceptId": "6161000013108",
+        "fsn": "sección: evaluación inicial de características nutricionales (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: evaluación inicial de características nutricionales"
+    },
+    {
+        "conceptId": "6351000013109",
+        "fsn": "sección: indicaciones de controles (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: indicaciones de controles"
+    },
+    {
+        "conceptId": "6321000013100",
+        "fsn": "sección: indicaciones de hidratación (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: indicaciones de hidratación"
+    },
+    {
+        "conceptId": "310634005",
+        "term": "colonoscopia de control",
+        "fsn": "colonoscopia de control (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "6171000013101",
+        "fsn": "sección: evaluación inicial de necesidades de eliminación realizadas (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: evaluación inicial de necesidades de eliminación realizadas"
+    },
+    {
+        "conceptId": "46973005",
+        "term": "medir la presión arterial",
+        "fsn": "medir la presión arterial (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "251318008",
+        "term": "conteo de dientes arreglados",
+        "fsn": "recuento de dientes cariados (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "fsn": "otoemisión acústica de oído derecho (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "2101000013106",
+        "term": "otoemisión acústica de oído derecho"
+    },
+    {
+        "conceptId": "5951000013101",
+        "fsn": "sección de estudios complementarios previos (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección de estudios complementarios previos"
+    },
+    {
+        "conceptId": "223493006",
+        "term": "procedimiento de registro",
+        "fsn": "procedimiento de documentación (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "14456009",
+        "term": "medir la altura del paciente (procedimiento)",
+        "fsn": "medir la altura del paciente (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "registrar las medidas antropométricas del paciente mayor de 3 años (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "2571000013105",
+        "term": "registrar las medidas antropométricas del paciente mayor de 3 años"
+    },
+    {
+        "conceptId": "271649006",
+        "term": "presión sistólica",
+        "fsn": "presión sistólica (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "fsn": "evaluación de antecedentes (procedimiento)",
+        "semanticTag": "procedimiento",
+        "term": "evaluación de antecedentes",
+        "conceptId": "371580005"
+    },
+    {
+        "conceptId": "371531000",
+        "term": "informe del encuentro",
+        "fsn": "informe del encuentro (elemento de registro)",
+        "semanticTag": "elemento de registro"
+    },
+    {
+        "fsn": "percentilo de velocidad de crecimiento (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "248340003",
+        "term": "percentilo de velocidad de crecimiento"
+    },
+    {
+        "conceptId": "6211000013104",
+        "fsn": "sección: evaluación inicial de riesgos (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: evaluación inicial de riesgos"
+    },
+    {
+        "conceptId": "306101007",
+        "fsn": "derivación a establecimiento (procedimiento)",
+        "semanticTag": "procedimiento",
+        "term": "derivación a establecimiento de salud"
+    },
+    {
+        "fsn": "desarrollo psicomotor (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "65401001",
+        "term": "desarrollo psicomotor"
+    },
+    {
+        "conceptId": "716141001",
+        "term": "evaluación de Boston",
+        "fsn": "evaluación con la Prueba de Denominación de Boston (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "percentilo de talla (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "248338008",
+        "term": "percentilo de talla"
+    },
+    {
+        "conceptId": "6201000013102",
+        "fsn": "sección: evaluación inicial de necesidades de sueño y reposo (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: evaluación inicial de necesidades de sueño y reposo"
+    },
+    {
+        "fsn": "evaluación de riesgo (procedimiento)",
+        "term": "evaluación de riesgo",
+        "conceptId": "225338004",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "informe médico relacionado con actividades especiales (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "conceptActive": true,
+        "conceptId": "184823006",
+        "term": "informe médico relacionado con actividades especiales"
+    },
+    {
+        "fsn": "complicación de procedimiento (trastorno)",
+        "term": "complicación de procedimiento",
+        "conceptId": "116224001",
+        "semanticTag": "trastorno"
+    },
+    {
+        "fsn": "sección correspondiente al síntoma principal (elemento de registro)",
+        "term": "sección correspondiente al síntoma principal",
+        "conceptId": "422843007",
+        "semanticTag": "elemento de registro"
+    },
+    {
+        "fsn": "preparación para procedimiento (régimen/tratamiento)",
+        "semanticTag": "régimen/tratamiento",
+        "conceptId": "443425001",
+        "term": "preparación para procedimiento"
+    },
+    {
+        "fsn": "tratamiento complementario (régimen/tratamiento)",
+        "semanticTag": "régimen/tratamiento",
+        "conceptId": "225423004",
+        "term": "tratamiento complementario"
+    },
+    {
+        "conceptId": "266918002",
+        "term": "tabaquismo",
+        "fsn": "tabaquismo (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "conceptId": "61746007",
+        "fsn": "registrar los signos vitales del paciente (procedimiento)",
+        "semanticTag": "procedimiento",
+        "term": "registrar los signos vitales del paciente"
+    },
+    {
+        "fsn": "procedimiento endoscópico en el apéndice cecal (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "440588003",
+        "term": "procedimiento endoscópico en el apéndice cecal"
+    },
+    {
+        "fsn": "medir la tension arterial de paciente pediatrico (procedimiento)",
+        "term": "medir la tension arterial de paciente pediatrico",
+        "conceptId": "2511000013101",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "endoscopia de esófago (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "49230008",
+        "term": "endoscopia de esófago"
+    },
+    {
+        "fsn": "endoscopia de estómago (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "386831001",
+        "term": "endoscopia de estómago"
+    },
+    {
+        "conceptId": "251319000",
+        "term": "recuento de dientes cariados",
+        "fsn": "recuento de dientes cariados (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "conceptId": "6141000013109",
+        "fsn": "sección: evaluación inicial del sistema respiratorio (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: evaluación inicial del sistema respiratorio"
+    },
+    {
+        "conceptId": "7061000013106",
+        "fsn": "sección: alergias (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: alergias"
+    },
+    {
+        "conceptId": "251317003",
+        "term": "recuento de dientes faltantes",
+        "fsn": "recuento de dientes cariados (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "conceptId": "422432008",
+        "fsn": "sección correspondiente a antecedentes familiares (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección correspondiente a antecedentes familiares"
+    },
+    {
+        "conceptId": "6151000013106",
+        "fsn": "sección: evaluación inicial del sistema circulatorio (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: evaluación inicial del sistema circulatorio"
+    },
+    {
+        "conceptId": "6181000013103",
+        "fsn": "sección: evaluación inicial de protección de tegumentos (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: evaluación inicial de protección de tegumentos"
+    },
+    {
+        "conceptId": "56342008",
+        "term": "medir la temperatura del paciente (procedimiento)",
+        "fsn": "medir la temperatura del paciente (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "7051000013109",
+        "fsn": "sección: listado de medicación habitual (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: listado de medicación habitual"
+    },
+    {
+        "fsn": "obtención del consentimiento válido del paciente (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "32780001",
+        "term": "obtención del consentimiento informado del paciente"
+    },
+    {
+        "conceptId": "7041000013107",
+        "fsn": "sección: datos de contacto (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: datos de contacto"
+    },
+    {
+        "fsn": "sección de resultados (elemento de registro)",
+        "semanticTag": "hallazgo",
+        "conceptId": "423100009",
+        "term": "sección de resultados"
+    },
+    {
+        "conceptId": "6361000013106",
+        "fsn": "sección: registro de cuidados generales (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: registro de cuidados generales"
+    },
+    {
+        "fsn": "Procedimiento completo (situación)",
+        "semanticTag": "situación",
+        "conceptId": "2011000013105",
+        "term": "Procedimiento completo"
+    },
+    {
+        "conceptId": "5941000013103",
+        "fsn": "sección correspondiente a antecedentes personales (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección correspondiente a antecedentes personales"
+    },
+    {
+        "conceptId": "6371000013104",
+        "fsn": "sección de cuidados especiales (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección de cuidados especiales"
+    },
+    {
+        "conceptId": "6381000013101",
+        "fsn": "sección: otras indicaciones (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: otras indicaciones"
+    },
+    {
+        "conceptId": "6111000013105",
+        "fsn": "evaluación inicial del paciente al ingreso a servicio de internación realizada por enfermera (procedimiento)",
+        "semanticTag": "procedimiento",
+        "term": "evaluación inicial del paciente al ingreso a servicio de internación realizada por enfermera"
+    },
+    {
+        "conceptId": "6451000013102",
+        "fsn": "sección de evaluación inicial de paciente internado realizado por médico (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección de evaluación inicial de paciente internado realizado por médico"
+    },
+    {
+        "conceptId": "6241000013100",
+        "fsn": "sección: evaluación inicial de aprendizaje/autorrealización/recreación (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: evaluación inicial de aprendizaje/autorrealización/recreación"
+    },
+    {
+        "conceptId": "60621009",
+        "term": "índice de masa corporal",
+        "fsn": "índice de masa corporal (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "conceptId": "5961000013104",
+        "fsn": "sección de descripción de la impresión diagnóstica (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección de descripción de la impresión diagnóstica"
+    },
+    {
+        "conceptId": "6541000013103",
+        "fsn": "informe de evolución de paciente internado realizado por médico (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "informe de evolución de paciente internado realizado por médico"
+    }
+]

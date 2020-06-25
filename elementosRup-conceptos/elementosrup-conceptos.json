@@ -1,0 +1,3617 @@
+[
+    {
+        "conceptId": "7141000013106",
+        "fsn": "procedimiento intraquirúrgico del médico (procedimiento)",
+        "semanticTag": "procedimiento",
+        "term": "procedimiento intraquirúrgico del médico"
+    },
+    {
+        "conceptId": "7121000013104",
+        "fsn": "procedimientos intraquirúrgicos de enfermería (procedimiento)",
+        "semanticTag": "procedimiento",
+        "term": "procedimientos intraquirúrgicos de enfermería"
+    },
+    {
+        "conceptId": "6961000013105",
+        "fsn": "profesional que recibe al paciente derivado (persona)",
+        "semanticTag": "persona",
+        "term": "profesional que recibe al paciente derivado"
+    },
+    {
+        "conceptId": "4991000013108",
+        "fsn": "plan de indicaciones de enfermería (procedimiento)",
+        "semanticTag": "procedimiento",
+        "term": "plan de indicaciones de enfermería"
+    },
+    {
+        "conceptId": "6281000013106",
+        "fsn": "evolución de la historia clínica de paciente internado realizado por enfermería (procedimiento)",
+        "semanticTag": "procedimiento",
+        "term": "evolución de la historia clínica de paciente internado realizado por enfermería"
+    },
+    {
+        "conceptId": "4981000013105",
+        "fsn": "plan de indicaciones médicas (procedimiento)",
+        "semanticTag": "procedimiento",
+        "term": "plan de indicaciones médicas"
+    },
+    {
+        "conceptId": "6491000013108",
+        "fsn": "sección de indicaciones médicas (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección de indicaciones médicas"
+    },
+    {
+        "conceptId": "6451000013102",
+        "fsn": "sección de evaluación inicial de paciente internado realizado por médico (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección de evaluación inicial de paciente internado realizado por médico"
+    },
+    {
+        "conceptId": "6111000013105",
+        "fsn": "evaluación inicial del paciente al ingreso a servicio de internación realizada por enfermera (procedimiento)",
+        "semanticTag": "procedimiento",
+        "term": "evaluación inicial del paciente al ingreso a servicio de internación realizada por enfermera"
+    },
+    {
+        "conceptId": "6461000013100",
+        "fsn": "sección de evaluación de paciente internado realizada por enfermería (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección de evaluación de paciente internado realizada por enfermería"
+    },
+    {
+        "conceptId": "6591000013107",
+        "term": "puntaje de la escala de evaluación de fallo orgánico secuencial - SOFA",
+        "fsn": "puntaje de la escala de evaluación de fallo orgánico secuencial - SOFA (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "fsn": "conteo de dientes arreglados (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "251318008",
+        "term": "conteo de dientes arreglados"
+    },
+    {
+        "fsn": "recuento de dientes faltantes (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "251317003",
+        "term": "recuento de dientes faltantes"
+    },
+    {
+        "fsn": "índice de experiencia en caries dentales (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "251313004",
+        "term": "índice de experiencia en caries dentales"
+    },
+    {
+        "fsn": "último período menstrual (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "21840007",
+        "term": "último período menstrual"
+    },
+    {
+        "fsn": "lugar de nacimiento (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "169812000",
+        "term": "lugar de nacimiento"
+    },
+    {
+        "conceptId": "4781000013108",
+        "term": "informe confidencial",
+        "fsn": "informe confidencial (elemento de registro)",
+        "semanticTag": "elemento de registro"
+    },
+    {
+        "conceptId": "4291000013101",
+        "term": "nota privada",
+        "fsn": "nota privada (elemento de registro)",
+        "semanticTag": "elemento de registro"
+    },
+    {
+        "conceptId": "70443007",
+        "term": "medición de depuración renal",
+        "fsn": "medición de depuración renal (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "procedimiento endoscópico en el apéndice cecal (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "440588003",
+        "term": "procedimiento endoscópico en el apéndice cecal"
+    },
+    {
+        "conceptId": "2341000013106",
+        "term": "epicrisis médica",
+        "fsn": "epicrisis médica (elemento de registro)",
+        "semanticTag": "elemento de registro"
+    },
+    {
+        "fsn": "Consultorio de procedimientos traumatológicos de enfermería (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "4441000013106",
+        "term": "Consultorio de procedimientos traumatológicos de enfermería"
+    },
+    {
+        "fsn": "Consultorio de cuidados de la piel y cicatrización de heridas (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "4451000013108",
+        "term": "Consultorio de cuidados de la piel y cicatrización de heridas"
+    },
+    {
+        "fsn": "Consulta de enfermería para pacientes pediátricos (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "4431000013101",
+        "term": "Consulta de enfermería para pacientes pediátricos"
+    },
+    {
+        "fsn": "Consulta de enfermería (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "861000013109",
+        "term": "Consulta de enfermería"
+    },
+    {
+        "fsn": "actividades de promoción de la salud del adolescente (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "5301000013104",
+        "term": "actividades de promoción de la salud del adolescente"
+    },
+    {
+        "fsn": "informe médico relacionado con actividades especiales (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "conceptActive": true,
+        "conceptId": "184823006",
+        "term": "informe médico relacionado con actividades especiales"
+    },
+    {
+        "fsn": "otoemisión acústica de oído izquierdo (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "2111000013109",
+        "term": "otoemisión acústica de oído izquierdo"
+    },
+    {
+        "fsn": "otoemisión acústica de oído derecho (entidad observable)",
+        "semanticTag": "entidad observable",
+        "term": "otoemisión acústica de oído derecho",
+        "conceptId": "2101000013106"
+    },
+    {
+        "fsn": "consulta de niño sano (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410620009",
+        "term": "consulta de niño sano"
+    },
+    {
+        "fsn": "desarrollo psicomotor normal (hallazgo)",
+        "semanticTag": "hallazgo",
+        "conceptId": "9908006",
+        "term": "desarrollo psicomotor en rango"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 6 meses (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410627007",
+        "term": "consulta de niño sano, a los 6 meses (procedimiento)"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 2 meses (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410624000",
+        "term": "consulta de niño sano, a los 2 meses (procedimiento)"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 15 meses (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410631001",
+        "term": "consulta de niño sano, a los 15 meses (procedimiento)"
+    },
+    {
+        "fsn": "consulta de niño sano, recién nacido (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410621008",
+        "term": "consulta de niño sano, recién nacido"
+    },
+    {
+        "fsn": "centilo del índice de masa corporal (entidad observable)",
+        "semanticTag": "entidad observable",
+        "term": "centilo del índice de masa corporal",
+        "conceptId": "446974000"
+    },
+    {
+        "fsn": "desarrollo psicomotor (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "65401001",
+        "term": "desarrollo psicomotor"
+    },
+    {
+        "fsn": "percentilo de talla (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "248338008",
+        "term": "percentilo de talla"
+    },
+    {
+        "fsn": "percentilo de peso (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "248356008",
+        "term": "percentilo de peso"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 9 años (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410641003",
+        "term": "consulta de niño sano, a los 9 años"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 7 años (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410639004",
+        "term": "consulta de niño sano, a los 7 años"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 5 años (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410637002",
+        "term": "consulta de niño sano, a los 5 años (procedimiento)"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 4 años (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410636006",
+        "term": "consulta de niño sano, a los 4 años (procedimiento)"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 3 años (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410634009",
+        "term": "consulta de niño sano, a los 3 años (procedimiento)"
+    },
+    {
+        "fsn": "medir la tension arterial de paciente pediatrico (procedimiento)",
+        "term": "medir la tension arterial de paciente pediatrico",
+        "conceptId": "2511000013101",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "perímetro cefálico (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "363812007",
+        "term": "perímetro cefálico"
+    },
+    {
+        "fsn": "consulta de incidencia de tratamiento (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "4421000013104",
+        "term": "consulta de incidencia para tratamiento termal"
+    },
+    {
+        "fsn": "consulta de urología pediátrica (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "3041000013103",
+        "term": "consulta de urología pediátrica"
+    },
+    {
+        "fsn": "consulta e informe prostodóncicos (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "44340006",
+        "term": "consulta e informe prostodóncicos"
+    },
+    {
+        "fsn": "consulta de psiquiatria (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "2671000013109",
+        "term": "consulta de psiquiatria"
+    },
+    {
+        "fsn": "consulta e informe endodóncicos (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "71387007",
+        "term": "consulta e informe endodóncicos"
+    },
+    {
+        "fsn": "consulta dental e informe ortodóncicos (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "89291005",
+        "term": "consulta dental e informe ortodóncicos"
+    },
+    {
+        "fsn": "consulta de dermatología para pacientes oncológicos (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "2921000013103",
+        "term": "consulta de dermatología para pacientes oncológicos"
+    },
+    {
+        "fsn": "consulta de psicología infantil (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "2911000013106",
+        "term": "consulta de psicología infantil"
+    },
+    {
+        "fsn": "consulta de fertilidad (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "2651000013104",
+        "term": "consulta de fertilidad"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "971000013108",
+        "term": "consulta de hipertensión pulmonar ",
+        "fsn": "consulta de hipertensión pulmonar (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "911000013104",
+        "term": "consulta de genética pediátrica ",
+        "fsn": "consulta de genética pediátrica (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "881000013104",
+        "term": "consulta de enfermería de educación sobre ostomías ",
+        "fsn": "consulta de enfermería de educación sobre ostomías (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "871000013102",
+        "term": "consulta de enfermería de educación sobre diabetes ",
+        "fsn": "consulta de enfermería de educación sobre diabetes (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "851000013107",
+        "term": "consulta de cirugía urológica ",
+        "fsn": "consulta de cirugía urológica (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "841000013105",
+        "term": "consulta de cirugía por quemaduras ",
+        "fsn": "consulta de cirugía por quemaduras (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "831000013100",
+        "term": "consulta de cirugía plástica ",
+        "fsn": "consulta de cirugía plástica (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "761000013104",
+        "term": "consulta de oncología clínica ",
+        "fsn": "consulta de oncología clínica (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "741000013103",
+        "term": "consulta post trasplante renal ",
+        "fsn": "consulta post trasplante renal (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "721000013105",
+        "term": "consulta de ginecología ",
+        "fsn": "consulta de ginecología (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "691000013100",
+        "term": "consulta de toxicología ",
+        "fsn": "consulta de toxicología (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "2621000013108",
+        "term": "consulta de niño sano, a los 3 años y medio ",
+        "fsn": "consulta de niño sano, a los 3 años y medio (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "2611000013100",
+        "term": "consulta de niño sano, a los 2 años y medio ",
+        "fsn": "consulta de niño sano, a los 2 años y medio (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "2471000013106",
+        "term": "consulta de desarrollo del habla ",
+        "fsn": "consulta de desarrollo del habla (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "2461000013104",
+        "term": "consulta de desarrollo del lenguaje ",
+        "fsn": "consulta de desarrollo del lenguaje (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1951000013104",
+        "term": "entrevista de servicio social ",
+        "fsn": "entrevista de servicio social (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1941000013101",
+        "term": "consulta de seguimiento de salud mental para sujeto menor ",
+        "fsn": "consulta de seguimiento de salud mental para sujeto menor (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1891000013102",
+        "term": "consulta de control de salud mental para sujetos menores ",
+        "fsn": "consulta de control de salud mental para sujetos menores (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1881000013100",
+        "term": "consulta de control de salud mental para sujetos adultos ",
+        "fsn": "consulta de control de salud mental para sujetos adultos (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1961000013102",
+        "term": "abordaje psicosocial de mujeres en situación de violencia ",
+        "fsn": "abordaje psicosocial de mujeres en situación de violencia (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1871000013103",
+        "term": "Consulta de apoyo psicológico para pacientes oncológicos ",
+        "fsn": "Consulta de apoyo psicológico para pacientes oncológicos (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1811000013107",
+        "term": "consulta de admisión al servicio de salud mental para sujeto adulto ",
+        "fsn": "consulta de admisión al servicio de salud mental para sujeto adulto (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1731000013109",
+        "term": "Taller de educación preparto ",
+        "fsn": "Taller de educación preparto (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1711000013103",
+        "term": "consulta de control de embarazo de bajo riesgo ",
+        "fsn": "consulta de control de embarazo de bajo riesgo (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1701000013101",
+        "term": "consulta de toma de muestra de HPV ",
+        "fsn": "consulta de toma de muestra de HPV (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1671000013102",
+        "term": "consulta de curaciones ginecológicas ",
+        "fsn": "consulta de curaciones ginecológicas (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1651000013107",
+        "term": "Consulta programada ",
+        "fsn": "Consulta programada (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1521000013102",
+        "term": "consulta de nutrición para pacientes postquirúrgicos ",
+        "fsn": "consulta de nutrición para pacientes postquirúrgicos (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1501000013107",
+        "term": "consulta de nutrición para pacientes oncológicos ",
+        "fsn": "consulta de nutrición para pacientes oncológicos (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1491000013104",
+        "term": "consulta de nutrición para pacientes nefrológicos ",
+        "fsn": "consulta de nutrición para pacientes nefrológicos (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1481000013102",
+        "term": "consulta de cirugía de pacientes pediátricos quemados ",
+        "fsn": "consulta de cirugía de pacientes pediátricos quemados (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1471000013100",
+        "term": "consulta de cirugía plástica pediátrica ",
+        "fsn": "consulta de cirugía plástica pediátrica (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1421000013101",
+        "term": "consulta de crecimiento y desarrollo ",
+        "fsn": "consulta de crecimiento y desarrollo (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1411000013109",
+        "term": "consulta prequirúrgica pediátrica ",
+        "fsn": "consulta prequirúrgica pediátrica (procedimiento)"
+    },
+    {
+        "fsn": "consulta de control quirúrgico del trauma (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "2661000013102",
+        "term": "consulta de control quirúrgico del trauma"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1841000013106",
+        "term": "Consulta de aprestamiento prequirurgico para sujetos candidatos a cirugía bariátrica ",
+        "fsn": "Consulta de aprestamiento prequirurgico para sujetos candidatos a cirugía bariátrica (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1381000013106",
+        "term": "consulta de hepatología ",
+        "fsn": "consulta de hepatología (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1851000013108",
+        "term": "consulta de asesoramiento social ",
+        "fsn": "consulta de asesoramiento social (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1371000013108",
+        "term": "consulta para cuiados paliativos pediátricos ",
+        "fsn": "consulta para cuiados paliativos pediátricos (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1361000013101",
+        "term": "consulta de nutrición para pacientes embarazadas ",
+        "fsn": "consulta de nutrición para pacientes embarazadas (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1321000013107",
+        "term": "consulta de nutrición infantil ",
+        "fsn": "consulta de nutrición infantil (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1311000013104",
+        "term": "consulta de cirugía de tórax pediátrida ",
+        "fsn": "consulta de cirugía de tórax pediátrida (procedimiento)"
+    },
+    {
+        "conceptId": "6601000013104",
+        "term": "relación saturación arterial de oxígeno y fracción inspiratoria de oxígeno - SAFI",
+        "fsn": "relación saturación arterial de oxígeno y fracción inspiratoria de oxígeno - SAFI (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1301000013102",
+        "term": "consulta de fisura labioalveolarpalatina - FLAP ",
+        "fsn": "consulta de fisura labioalveolarpalatina - FLAP (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1291000013103",
+        "term": "consulta de obesidad pediátrica ",
+        "fsn": "consulta de obesidad pediátrica (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1281000013101",
+        "term": "consulta de hematología pediátrica ",
+        "fsn": "consulta de hematología pediátrica (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1261000013106",
+        "term": "consulta de endocrinología pediátrica ",
+        "fsn": "consulta de endocrinología pediátrica (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1251000013109",
+        "term": "consulta de diabetes para pacientes pediátricos ",
+        "fsn": "consulta de diabetes para pacientes pediátricos (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1211000013108",
+        "term": "consulta de mielomeningocele ",
+        "fsn": "consulta de mielomeningocele (procedimiento)"
+    },
+    {
+        "conceptId": "716141001",
+        "term": "evaluación con la Prueba de Denominación de Boston",
+        "fsn": "evaluación con la Prueba de Denominación de Boston (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1191000013107",
+        "term": "consulta de control de embarazo ",
+        "fsn": "consulta de control de embarazo (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "771000013106",
+        "term": "consulta de oncología radiante ",
+        "fsn": "consulta de oncología radiante (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1171000013106",
+        "term": "consulta de control oftalmológico postquirúrgico ",
+        "fsn": "consulta de control oftalmológico postquirúrgico (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1131000013108",
+        "term": "consulta de ginecología oncológica ",
+        "fsn": "consulta de ginecología oncológica (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1121000013105",
+        "term": "consulta de ginecología para adolescentes ",
+        "fsn": "consulta de ginecología para adolescentes (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1111000013102",
+        "term": "consulta de ginecología pediátrica ",
+        "fsn": "consulta de ginecología pediátrica (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1101000013100",
+        "term": "consulta de esterilidad ",
+        "fsn": "consulta de esterilidad (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1091000013106",
+        "term": "consulta de endocrinología ginecológica ",
+        "fsn": "consulta de endocrinología ginecológica (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1061000013103",
+        "term": "consulta de cirugía urológica infantil ",
+        "fsn": "consulta de cirugía urológica infantil (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1051000013100",
+        "term": "consulta de cirugía infantil ",
+        "fsn": "consulta de cirugía infantil (procedimiento)"
+    },
+    {
+        "conceptId": "5971000013106",
+        "fsn": "evolución de la historia clínica de paciente internado realizada por el médico (procedimiento)",
+        "semanticTag": "procedimiento",
+        "term": "evolución de la historia clínica de paciente internado realizada por el médico"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1031000013107",
+        "term": "consulta de titulación de ventilación no invasiva ",
+        "fsn": "consulta de titulación de ventilación no invasiva (procedimiento)"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 9 meses (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410628002",
+        "term": "consulta de niño sano, a los 9 meses (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1021000013109",
+        "term": "consulta de ventilación no invasiva ",
+        "fsn": "consulta de ventilación no invasiva (procedimiento)"
+    },
+    {
+        "fsn": "frecuencia respiratoria (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "86290005",
+        "term": "frecuencia respiratoria"
+    },
+    {
+        "fsn": "frecuencia del respirador (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "250876000",
+        "term": "frecuencia ventilatoria"
+    },
+    {
+        "fsn": "evaluación de régimen nutricional (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410173005",
+        "term": "evaluación de régimen nutricional"
+    },
+    {
+        "fsn": "tensión arterial diastólica deseada (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "315613000",
+        "term": "tensión arterial diastólica deseada"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1391000013109",
+        "term": "consulta de hepatología pediátrica ",
+        "fsn": "consulta de hepatología pediátrica (procedimiento)"
+    },
+    {
+        "fsn": "temperatura de articulación de dedo de la mano (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "364495009",
+        "term": "temperatura de articulación de dedo de la mano"
+    },
+    {
+        "fsn": "peso previo (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "248351003",
+        "term": "peso previo"
+    },
+    {
+        "fsn": "peso corporal sin calzado (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "425024002",
+        "term": "peso corporal sin zapatos"
+    },
+    {
+        "conceptId": "581000013102",
+        "term": "consulta de traumatología de cadera (procedimiento)",
+        "fsn": "consulta de traumatología de cadera (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "peso buscado (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "390734006",
+        "term": "peso buscado"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1161000013104",
+        "term": "consulta de seguimiento de neonatos prematuros ",
+        "fsn": "consulta de seguimiento de neonatos prematuros (procedimiento)"
+    },
+    {
+        "fsn": "peso basal (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "400967004",
+        "term": "peso basal (entidad observable)"
+    },
+    {
+        "fsn": "peso corporal con calzado (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "424927000",
+        "term": "peso corporal con calzado"
+    },
+    {
+        "fsn": "temperatura axilar (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "415882003",
+        "term": "temperatura axilar (entidad observable)"
+    },
+    {
+        "fsn": "registro ambulatorio de la tensión arterial (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "164783007",
+        "term": "registro ambulatorio de la tensión arterial"
+    },
+    {
+        "conceptId": "6741000013108",
+        "term": "puntaje de la escala de predicción de mortalidad en pacientes con neumonía adquirida en la comunidad",
+        "fsn": "puntaje de la escala de predicción de mortalidad en pacientes con neumonía adquirida en la comunidad (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "fsn": "presión arterial sistólica (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "72313002",
+        "term": "presión arterial sistólica (entidad observable)"
+    },
+    {
+        "fsn": "tensión arterial diastólica promedio domiciliaria (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "413605002",
+        "term": "presión arterial diastólica promedio domiciliaria"
+    },
+    {
+        "fsn": "tensión arterial diastólica en bipedestación (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "400975005",
+        "term": "presión arterial diastólica en bipedestación"
+    },
+    {
+        "conceptId": "641000013109",
+        "term": "consulta postquirúrgica de traumatología (procedimiento)",
+        "fsn": "consulta postquirúrgica de traumatología (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "hipertensión arterial esencial con bajo nivel de renina (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "46481004",
+        "term": "hipertensión arterial esencial con bajo nivel de renina"
+    },
+    {
+        "fsn": "tensión arterial sistólica máxima (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "314439003",
+        "term": "tensión arterial sistólica máxima"
+    },
+    {
+        "fsn": "presión diastólica promedio de 24 horas (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "314462001",
+        "term": "presión diastólica promedio de 24 horas"
+    },
+    {
+        "fsn": "presión diastólica promedio (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "314453003",
+        "term": "presión diastólica promedio"
+    },
+    {
+        "fsn": "hipertensión esencial en el contexto obstétrico (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "72022006",
+        "term": "hipertensión esencial en el contexto obstétrico"
+    },
+    {
+        "fsn": "presión sanguínea diastólica en decúbito (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "407557002",
+        "term": "presión sanguínea diastólica en decúbito"
+    },
+    {
+        "fsn": "presión diastólica mínima (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "314451001",
+        "term": "presión diastólica mínima"
+    },
+    {
+        "fsn": "obesidad que perdura toda la vida (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "294493008",
+        "term": "obesidad que perdura toda la vida"
+    },
+    {
+        "fsn": "sangre oculta en materia fecal (hallazgo)",
+        "semanticTag": "hallazgo",
+        "conceptId": "59614000",
+        "term": "sangre oculta en materia fecal (hallazgo)"
+    },
+    {
+        "fsn": "presión diastólica del ventrículo derecho (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "276773006",
+        "term": "presión diastólica del ventrículo derecho"
+    },
+    {
+        "conceptId": "271650006",
+        "term": "presión arterial diastólica",
+        "fsn": "presión diastólica (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "fsn": "hipertensión arterial secundaria maligna (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "89242004",
+        "term": "hipertensión arterial secundaria maligna"
+    },
+    {
+        "fsn": "examen de garganta, nariz y oído (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "113028003",
+        "term": "examen ORL"
+    },
+    {
+        "fsn": "presión diastólica máxima (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "314452008",
+        "term": "presión diastólica máxima"
+    },
+    {
+        "fsn": "autocitación (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "811000013106",
+        "term": "autocitación"
+    },
+    {
+        "fsn": "temperatura (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "703421000",
+        "term": "temperatura (entidad observable)"
+    },
+    {
+        "conceptId": "306101007",
+        "fsn": "derivación a establecimiento (procedimiento)",
+        "semanticTag": "procedimiento",
+        "term": "derivación a establecimiento de salud"
+    },
+    {
+        "conceptId": "6501000013100",
+        "fsn": "sección de indicaciones de enfermería (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección de indicaciones de enfermería"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "2481000013109",
+        "term": "consulta de fonoestomatología ",
+        "fsn": "consulta de fonoestomatología (procedimiento)"
+    },
+    {
+        "fsn": "hipertensión crónica que complica el parto Y/O constituye un motivo de atención durante este procedimiento (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "8218002",
+        "term": "hipertensión crónica que complica el parto Y/O constituye un motivo de atención durante este procedimiento"
+    },
+    {
+        "fsn": "hipertensión preexistente que complica el embarazo Y/O constituye un motivo de atención durante este período (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "65402008",
+        "term": "hipertensión preexistente que complica el embarazo Y/O constituye un motivo de atención durante este período"
+    },
+    {
+        "fsn": "tensión arterial registrada por el paciente en su hogar (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "413153004",
+        "term": "tensión arterial registrada por el paciente en su hogar (procedimiento)"
+    },
+    {
+        "fsn": "preparación de la epicrisis (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "427228005",
+        "term": "preparación de la epicrisis"
+    },
+    {
+        "fsn": "peso corporal ideal (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "170804003",
+        "term": "peso corporal ideal"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 12 meses (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410629005",
+        "term": "consulta de niño sano, a los 12 meses"
+    },
+    {
+        "fsn": "hipertensión preexistente que complica el parto Y/O constituye un motivo de atención durante este procedimiento (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "34694006",
+        "term": "hipertensión preexistente que complica el parto Y/O constituye un motivo de atención durante este procedimiento"
+    },
+    {
+        "conceptId": "6971000013103",
+        "fsn": "motivos de derivación (calificador)",
+        "semanticTag": "calificador",
+        "term": "motivos de derivación"
+    },
+    {
+        "fsn": "episodio hipertensivo (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "62275004",
+        "term": "episodio hipertensivo"
+    },
+    {
+        "fsn": "crisis hipertensiva (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "706882009",
+        "term": "crisis hipertensiva"
+    },
+    {
+        "conceptId": "373942005",
+        "term": "informe de alta",
+        "fsn": "informe de alta (elemento de registro)",
+        "semanticTag": "elemento de registro"
+    },
+    {
+        "fsn": "obesidad de la infancia (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "444862003",
+        "term": "obesidad de la infancia (trastorno)"
+    },
+    {
+        "fsn": "enfermedad renal crónica hipertensiva materna preexistente que complica el embarazo (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "118781000119108",
+        "term": "enfermedad renal crónica hipertensiva materna preexistente que complica el embarazo"
+    },
+    {
+        "fsn": "prueba de la caminata (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "302761001",
+        "term": "prueba de la caminata"
+    },
+    {
+        "fsn": "presión de fin de diástole del ventrículo derecho (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "276774000",
+        "term": "presión de fin de diástole del ventrículo derecho"
+    },
+    {
+        "fsn": "obesidad mórbida (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "238136002",
+        "term": "obesidad mórbida"
+    },
+    {
+        "conceptId": "481000013101",
+        "term": "consulta de odontología pediátrica (procedimiento)",
+        "fsn": "consulta de odontología pediátrica (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "hipertensión arterial maligna (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "70272006",
+        "term": "hipertensión arterial maligna"
+    },
+    {
+        "fsn": "hipertensión arterial diastólica secundaria (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "74451002",
+        "term": "hipertensión arterial diastólica secundaria"
+    },
+    {
+        "conceptId": "751000013101",
+        "term": "consulta de nutrición",
+        "fsn": "consulta de nutrición (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "hipertensión lábil por estar en un entorno clínico (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "697930002",
+        "term": "hipertensión lábil por estar en un entorno clínico (trastorno)"
+    },
+    {
+        "conceptId": "27113001",
+        "term": "peso corporal",
+        "fsn": "peso corporal (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "fsn": "toxemia del embarazo (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "15394000",
+        "term": "toxemia del embarazo"
+    },
+    {
+        "fsn": "hipertensión posperatoria (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "5501000119106",
+        "term": "hipertensión posperatoria (trastorno)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1271000013104",
+        "term": "consulta de gastroenterología infantil ",
+        "fsn": "consulta de gastroenterología infantil (procedimiento)"
+    },
+    {
+        "fsn": "hipertensión renal que complica embarazo, parto y puerperio - nacido (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "198951008",
+        "term": "hipertensión renal que complica embarazo, parto y puerperio - nacido"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "921000013107",
+        "term": "consulta de toma de papanicolau - PAP ",
+        "fsn": "consulta de toma de papanicolau - PAP (procedimiento)"
+    },
+    {
+        "fsn": "hipertensión arterial transitoria (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "52698002",
+        "term": "hipertensión arterial transitoria"
+    },
+    {
+        "fsn": "hipertensión secundaria a nefropatía, que complica el embarazo Y/O constituye un motivo de atención durante este período (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "48552006",
+        "term": "hipertensión secundaria a nefropatía, que complica el embarazo Y/O constituye un motivo de atención durante este período"
+    },
+    {
+        "fsn": "hipertensión arterial diastólica (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "48146000",
+        "term": "hipertensión arterial diastólica"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "711000013102",
+        "term": "consulta de genética ",
+        "fsn": "consulta de genética (procedimiento)"
+    },
+    {
+        "fsn": "temperatura corporal central (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "276885007",
+        "term": "temperatura corporal central"
+    },
+    {
+        "fsn": "Consulta de patología mamaria (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "981000013106",
+        "term": "Consulta de patología mamaria"
+    },
+    {
+        "fsn": "urgencia hipertensiva (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "443482000",
+        "term": "urgencia hipertensiva (trastorno)"
+    },
+    {
+        "fsn": "recuento de dientes cariados (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "251319000",
+        "term": "recuento de dientes cariados"
+    },
+    {
+        "fsn": "hipertensión arterial nefrógena (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "28119000",
+        "term": "hipertensión arterial nefrógena"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1541000013109",
+        "term": "consulta de nutrición para pacientes diabéticos pediátricos ",
+        "fsn": "consulta de nutrición para pacientes diabéticos pediátricos (procedimiento)"
+    },
+    {
+        "fsn": "hipertensión causada por píldora anticonceptiva oral (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "169465000",
+        "term": "hipertensión inducida por píldora anticonceptiva oral (trastorno)"
+    },
+    {
+        "fsn": "hipertensión de esfuerzo (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "429198000",
+        "term": "hipertensión de esfuerzo (trastorno)"
+    },
+    {
+        "fsn": "hipertensión secundaria a trasplante renal (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "428575007",
+        "term": "hipertensión secundaria a trasplante renal (trastorno)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "901000013102",
+        "term": "consulta de control de evolución de accidente cerebrovascular ",
+        "fsn": "consulta de control de evolución de accidente cerebrovascular (procedimiento)"
+    },
+    {
+        "fsn": "hipertensión asociada con trasplante (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "427889009",
+        "term": "hipertensión asociada con trasplante"
+    },
+    {
+        "fsn": "estudios urodinámicos (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "252895004",
+        "term": "urodinamia"
+    },
+    {
+        "fsn": "hipertrofia de almohadilla adiposa infrarrotuliana (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "72894001",
+        "term": "hipertrofia del tejido adiposo de la rodilla"
+    },
+    {
+        "fsn": "peso corporal habitual (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "363809009",
+        "term": "peso corporal habitual"
+    },
+    {
+        "fsn": "hipertensión arterial renal (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "39018007",
+        "term": "hipertensión arterial renal"
+    },
+    {
+        "fsn": "hipertensión esencial benigna que complica el puerperio Y/O constituye un motivo de atención durante este período (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "35303009",
+        "term": "hipertensión esencial benigna que complica el puerperio Y/O constituye un motivo de atención durante este período"
+    },
+    {
+        "fsn": "hipertensión en enfermedad renal crónica debida a diabetes mellitus tipo 2 (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "71421000119105",
+        "term": "hipertensión en enfermedad renal crónica debida a diabetes mellitus tipo 2"
+    },
+    {
+        "fsn": "hipertensión arterial secundaria (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "31992008",
+        "term": "hipertensión arterial secundaria"
+    },
+    {
+        "conceptId": "301000013101",
+        "term": "consulta de tabaquismo (procedimiento)",
+        "fsn": "consulta de tabaquismo (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "hipertensión maligna que complica el embarazo Y/O constituye un motivo de atención durante este período (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "29259002",
+        "term": "hipertensión maligna que complica el embarazo Y/O constituye un motivo de atención durante este período"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1741000013104",
+        "term": "Consulta de embarazo para pacientes diabéticas ",
+        "fsn": "Consulta de embarazo para pacientes diabéticas (procedimiento)"
+    },
+    {
+        "fsn": "hipertensión secundaria a nefropatía, que complica el parto Y/O constituye un motivo de atención durante este procedimiento (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "26078007",
+        "term": "hipertensión secundaria a nefropatía, que complica el parto Y/O constituye un motivo de atención durante este procedimiento"
+    },
+    {
+        "conceptId": "710996002",
+        "fsn": "monitorización de la talla (régimen/tratamiento)",
+        "semanticTag": "régimen/tratamiento",
+        "term": "monitorización de la talla (régimen/tratamiento)"
+    },
+    {
+        "fsn": "hipertensión intermitente (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "697929007",
+        "term": "hipertensión intermitente (trastorno)"
+    },
+    {
+        "fsn": "hipertensión que complica el embarazo, parto y puerperio (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "198941007",
+        "term": "complicación hipertensiva del embarazo, parto y puerperio"
+    },
+    {
+        "conceptId": "410191000",
+        "term": "evaluación de la medición de temperatura (procedimiento)",
+        "fsn": "evaluación de la medición de temperatura (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "hipertensión arterial diastólica lábil (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "65518004",
+        "term": "hipertensión arterial diastólica lábil"
+    },
+    {
+        "conceptId": "601000013107",
+        "term": "consulta de traumatología de codo (procedimiento)",
+        "fsn": "consulta de traumatología de codo (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "registrar las medidas antropométricas del paciente mayor de 3 años (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "2571000013105",
+        "term": "registrar las medidas antropométricas del paciente mayor de 3 años"
+    },
+    {
+        "fsn": "hipertensión maligna que complica el puerperio Y/O constituye un motivo de atención durante este período (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "23786008",
+        "term": "hipertensión maligna que complica el puerperio Y/O constituye un motivo de atención durante este período"
+    },
+    {
+        "fsn": "presión sanguínea diastólica al ingreso (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "446226005",
+        "term": "presión sanguínea diastólica al ingreso"
+    },
+    {
+        "fsn": "longitud cefalocaudal (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "276352009",
+        "term": "longitud cefalocaudal"
+    },
+    {
+        "fsn": "control de la tensión sanguínea (régimen/tratamiento)",
+        "semanticTag": "régimen/tratamiento",
+        "conceptId": "135840009",
+        "term": "monitoreo de la tensión sanguínea"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1691000013101",
+        "term": "consulta de anticoncepción ",
+        "fsn": "consulta de anticoncepción (procedimiento)"
+    },
+    {
+        "fsn": "peso al nacer (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "364589006",
+        "term": "peso al nacer"
+    },
+    {
+        "fsn": "hipertensión secundaria a nefropatía en el contexto obstétrico (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "111438007",
+        "term": "hipertensión secundaria a nefropatía en el contexto obstétrico"
+    },
+    {
+        "fsn": "obesidad materna que complica el embarazo, el parto y el puerperio, preparto (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "171000119107",
+        "term": "obesidad preparto en la madre que complica el embarazo, el parto y el puerperio (trastorno)"
+    },
+    {
+        "fsn": "obesidad según factores contribuyentes (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "414919008",
+        "term": "obesidad según factores contribuyentes"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "941000013100",
+        "term": "consulta de obesidad ",
+        "fsn": "consulta de obesidad (procedimiento)"
+    },
+    {
+        "conceptId": "311000013103",
+        "term": "consulta de cirugía (procedimiento)",
+        "fsn": "consulta de cirugía (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "hipertensión esencial benigna en el contexto obstétrico (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "63287004",
+        "term": "hipertensión esencial benigna en el contexto obstétrico"
+    },
+    {
+        "fsn": "esteatopigia (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "57337005",
+        "term": "esteatopigia"
+    },
+    {
+        "conceptId": "451000013109",
+        "term": "consulta de traumatología general (procedimiento)",
+        "fsn": "consulta de traumatología general (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "procedimiento de salud comunitaria (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "389067005",
+        "term": "procedimiento de salud comunitaria"
+    },
+    {
+        "fsn": "peso de referencia (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "248350002",
+        "term": "peso de referencia"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1751000013102",
+        "term": "consulta de diagnóstico y seguimiento de anomalías genéticas prenatales ",
+        "fsn": "consulta de diagnóstico y seguimiento de anomalías genéticas prenatales (procedimiento)"
+    },
+    {
+        "fsn": "síndrome de obesidad materna (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "44772007",
+        "term": "síndrome de obesidad materna"
+    },
+    {
+        "conceptId": "6911000013107",
+        "fsn": "sección: detalles del acuerdo de la derivación del paciente (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "sección: detalles del acuerdo de la derivación del paciente"
+    },
+    {
+        "fsn": "preeclampsia moderada (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "237281009",
+        "term": "preeclampsia moderada"
+    },
+    {
+        "fsn": "presión diastólica máxima de 24 horas (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "314459004",
+        "term": "presión diastólica máxima de 24 horas"
+    },
+    {
+        "fsn": "cribado para la detección de glaucoma (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "171215009",
+        "term": "detección selectiva de glaucoma"
+    },
+    {
+        "fsn": "presión diastólica mínima de 24 horas (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "314456006",
+        "term": "presión diastólica mínima de 24 horas"
+    },
+    {
+        "fsn": "obesidad según patrón de crecimiento adipocítico (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "414917005",
+        "term": "obesidad según patrón de crecimiento adipocítico"
+    },
+    {
+        "fsn": "hipertensión maligna que complica el parto Y/O constituye un motivo de atención durante este procedimiento (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "10562009",
+        "term": "hipertensión maligna que complica el parto Y/O constituye un motivo de atención durante este procedimiento"
+    },
+    {
+        "fsn": "cardiopatía hipertensiva y enfermedad renal crónica hipertensiva materna preexistentes que complican el nacimiento (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "10757401000119104",
+        "term": "cardiopatía hipertensiva y enfermedad renal crónica hipertensiva materna preexistentes que complican el nacimiento (trastorno)"
+    },
+    {
+        "fsn": "Consulta de neurología pediátrica (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "1241000013107",
+        "term": "Consulta de neurología pediátrica"
+    },
+    {
+        "conceptId": "381000013105",
+        "term": "consulta sobre alergias (procedimiento)",
+        "fsn": "consulta sobre alergias (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "hipertensión esencial benigna que complica el embarazo, parto y el puerperio - no nacido (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "198946002",
+        "term": "hipertensión esencial benigna que complica el embarazo, parto y el puerperio - no nacido (trastorno)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "791000013107",
+        "term": "consulta de adolescencia ",
+        "fsn": "consulta de adolescencia (procedimiento)"
+    },
+    {
+        "fsn": "frecuencia respiratoria obligatoria (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "250877009",
+        "term": "frecuencia respiratoria obligatoria"
+    },
+    {
+        "fsn": "documento de solicitud de admisión (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "conceptId": "721915006",
+        "term": "documento de solicitud de admisión"
+    },
+    {
+        "fsn": "obesidad hiperinsulínica (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "111036000",
+        "term": "obesidad hiperinsulínica"
+    },
+    {
+        "fsn": "hipertensión arterial de origen endocrino (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "59997006",
+        "term": "hipertensión arterial de origen endocrino"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1041000013102",
+        "term": "consulta prequirúrgica de neumonología ",
+        "fsn": "consulta prequirúrgica de neumonología (procedimiento)"
+    },
+    {
+        "conceptId": "272039006",
+        "term": "refiere: tos (hallazgo)",
+        "fsn": "refiere: tos (hallazgo)",
+        "semanticTag": "hallazgo"
+    },
+    {
+        "fsn": "presión arterial diastólica no invasiva (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "174255007",
+        "term": "presión arterial diastólica no invasiva"
+    },
+    {
+        "fsn": "percentilo de perímetro cefálico (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "248397001",
+        "term": "percentilo de perímetro cefálico"
+    },
+    {
+        "fsn": "temperatura vaginal (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "364246006",
+        "term": "temperatura vaginal"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "731000013108",
+        "term": "consulta de nefrología ",
+        "fsn": "consulta de nefrología (procedimiento)"
+    },
+    {
+        "fsn": "presión arterial diastólica determinada con método invasivo (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "251073000",
+        "term": "presión arterial diastólica invasiva"
+    },
+    {
+        "fsn": "hipertensión materna (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "288250001",
+        "term": "hipertensión materna"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1721000013106",
+        "term": "consulta de monitoreo fetal ",
+        "fsn": "consulta de monitoreo fetal (procedimiento)"
+    },
+    {
+        "fsn": "obesidad endógena (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "297500005",
+        "term": "obesidad endógena"
+    },
+    {
+        "fsn": "hipertensión transitoria del embarazo con complicaciones posparto (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "198968007",
+        "term": "hipertensión transitoria del embarazo con complicaciones posparto"
+    },
+    {
+        "fsn": "obesidad de origen endocrino (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "298464002",
+        "term": "obesidad de origen endocrino"
+    },
+    {
+        "fsn": "hipertensión esencial benigna que complica el parto Y/O constituye un motivo de atención durante este procedimiento (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "71874008",
+        "term": "hipertensión esencial benigna que complica el parto Y/O constituye un motivo de atención durante este procedimiento"
+    },
+    {
+        "fsn": "eclampsia con hipertensión preexistente durante el parto (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "10752641000119102",
+        "term": "eclampsia con hipertensión preexistente durante el parto"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 8 años (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410640002",
+        "term": "consulta de niño sano, a los 8 años"
+    },
+    {
+        "fsn": "obesidad constitucional (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "292464007",
+        "term": "obesidad constitucional"
+    },
+    {
+        "fsn": "cardiopatía hipertensiva y enfermedad renal crónica hipertensiva materna preexistentes que complican el embarazo (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "10757481000119107",
+        "term": "cardiopatía hipertensiva y enfermedad renal crónica hipertensiva materna preexistentes que complican el embarazo (trastorno)"
+    },
+    {
+        "fsn": "temperatura vesical (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "698832009",
+        "term": "temperatura vesical"
+    },
+    {
+        "fsn": "presión arterial sistólica promedio diurna (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "314446007",
+        "term": "presión arterial sistólica promedio diurna"
+    },
+    {
+        "fsn": "Consulta de cardiología pediátrica (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "1461000013107",
+        "term": "Consulta de cardiología pediátrica"
+    },
+    {
+        "fsn": "hipertensión renal que complica embarazo, parto y puerperio con complicación posnatal (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "198954000",
+        "term": "hipertensión renal que complica embarazo, parto y puerperio con complicación posnatal"
+    },
+    {
+        "fsn": "peso calculado con la estimación de peso pediátrico de Broselow Luten (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "443245006",
+        "term": "peso calculado con la estimación de peso pediátrico de Broselow Luten (entidad observable)"
+    },
+    {
+        "fsn": "hipertensión preexistente en el contexto obstétrico (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "86041002",
+        "term": "hipertensión preexistente en el contexto obstétrico"
+    },
+    {
+        "fsn": "hipertensión arterial sistólica (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "56218007",
+        "term": "hipertensión arterial sistólica"
+    },
+    {
+        "fsn": "obesidad hipertrófica-hiperplásica (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "293481008",
+        "term": "obesidad hipertrófica-hiperplásica"
+    },
+    {
+        "fsn": "hipertensión crónica que complica el embarazo Y/O constituye un motivo de atención durante este período (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "37618003",
+        "term": "hipertensión crónica que complica el embarazo Y/O constituye un motivo de atención durante este período"
+    },
+    {
+        "fsn": "obesidad severa (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "83911000119104",
+        "term": "obesidad severa"
+    },
+    {
+        "fsn": "hipertensión secundaria preexistente que complica embarazo, parto y puerperio (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "199008003",
+        "term": "hipertensión secundaria preexistente que complica embarazo, parto y puerperio"
+    },
+    {
+        "fsn": "preeclampsia o eclampsia con hipertensión preexistente - nacido (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "198999008",
+        "term": "preeclampsia o eclampsia con hipertensión preexistente - nacido (trastorno)"
+    },
+    {
+        "conceptId": "60621009",
+        "term": "índice de masa corporal",
+        "fsn": "índice de masa corporal (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "fsn": "hipertensión esencial que complica el puerperio Y/O constituye un motivo de atención durante este período (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "9901000",
+        "term": "hipertensión esencial que complica el puerperio Y/O constituye un motivo de atención durante este período"
+    },
+    {
+        "fsn": "obesidad inducida por fármacos (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "190965006",
+        "term": "obesidad medicamentosa (trastorno)"
+    },
+    {
+        "fsn": "hipertensión transitoria del embarazo - nacido con complicación posnatal (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "198966006",
+        "term": "hipertensión transitoria del embarazo - nacido con complicación posnatal (trastorno)"
+    },
+    {
+        "fsn": "Consulta de dermatología infantil (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "1071000013105",
+        "term": "Consulta de dermatología infantil "
+    },
+    {
+        "fsn": "hipertensión esencial lábil (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "371125006",
+        "term": "hipertensión esencial lábil"
+    },
+    {
+        "fsn": "síndrome de Mauriac (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "80660001",
+        "term": "síndrome de Mauriac"
+    },
+    {
+        "fsn": "hipertensión transitoria del embarazo - nacido (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "198965005",
+        "term": "hipertensión transitoria del embarazo - nacido (trastorno)"
+    },
+    {
+        "conceptId": "6891000013105",
+        "fsn": "monitoreo del paciente internado realizado por enfermería (régimen/tratamiento)",
+        "semanticTag": "régimen/tratamiento",
+        "term": "monitoreo del paciente internado realizado por enfermería"
+    },
+    {
+        "fsn": "hipertensión gestacional (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "48194001",
+        "term": "hipertensión gestacional"
+    },
+    {
+        "fsn": "hipertensión renal que complica embarazo, parto y puerperio (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "198949009",
+        "term": "hipertensión renal que complica embarazo, parto y puerperio (trastorno)"
+    },
+    {
+        "fsn": "registrar las medidas antropometricas del paciente menor de 2 años (procedimiento)",
+        "semanticTag": "procedimiento",
+        "refsetIds": [],
+        "conceptId": "2551000013100",
+        "term": "registrar las medidas antropometricas del paciente menor de 2 años"
+    },
+    {
+        "conceptId": "33633005",
+        "term": "prescripción de un medicamento",
+        "fsn": "prescripción de un medicamento (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "obesidad localizada (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "270486005",
+        "term": "adiposidad localizada"
+    },
+    {
+        "fsn": "obesidad hipotalámica (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "82793005",
+        "term": "obesidad hipotalámica"
+    },
+    {
+        "fsn": "hipertensión esencial benigna que complica el embarazo, parto y el puerperio con complicación posnatal (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "198947006",
+        "term": "hipertensión esencial benigna que complica el embarazo, parto y el puerperio con complicación posnatal (trastorno)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "781000013109",
+        "term": "consulta de oncología ",
+        "fsn": "consulta de oncología (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1831000013101",
+        "term": "consulta de psicoprofilaxis quirúrgica para pacientes pediátricos ",
+        "fsn": "consulta de psicoprofilaxis quirúrgica para pacientes pediátricos (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1511000013105",
+        "term": "consulta prequirúrgica de nutrición ",
+        "fsn": "consulta prequirúrgica de nutrición (procedimiento)"
+    },
+    {
+        "fsn": "obesidad familiar (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "290439001",
+        "term": "obesidad familiar"
+    },
+    {
+        "fsn": "presión sanguínea diastólica de 24 horas (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "314465004",
+        "term": "presión sanguínea diastólica de 24 horas"
+    },
+    {
+        "fsn": "obesidad según patrón de distribución de grasa (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "414920002",
+        "term": "obesidad según patrón de distribución de grasa (trastorno)"
+    },
+    {
+        "fsn": "hipertensión inducida por el embarazo con edema pulmonar (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "698638005",
+        "term": "hipertensión inducida por el embarazo con edema pulmonar"
+    },
+    {
+        "conceptId": "521000013101",
+        "term": "consulta de traumatología de miembro superior",
+        "fsn": "consulta de traumatología de miembro superior",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "hipertensión esencial benigna que complica el embarazo, parto y el puerperio - nacido con complicación posnatal (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "198945003",
+        "term": "hipertensión esencial benigna que complica el embarazo, parto y el puerperio - nacido con complicación posnatal"
+    },
+    {
+        "fsn": "preeclampsia leve (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "41114007",
+        "term": "preeclampsia leve"
+    },
+    {
+        "fsn": "obesidad simple (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "415530009",
+        "term": "obesidad simple (trastorno)"
+    },
+    {
+        "fsn": "hipertensión arterial renovascular maligna secundaria (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "194783001",
+        "term": "hipertensión arterial renovascular maligna secundaria"
+    },
+    {
+        "fsn": "hipertensión que complica embarazo, parto y puerperio, preparto (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "541000119105",
+        "term": "hipertensión que complica embarazo, parto y puerperio, preparto (trastorno)"
+    },
+    {
+        "fsn": "obesidad ginecoide (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "238133005",
+        "term": "obesidad ginecoide"
+    },
+    {
+        "fsn": "hipertensión arterial esencial maligna (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "78975002",
+        "term": "hipertensión arterial esencial maligna"
+    },
+    {
+        "fsn": "temperatura de esófago (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "431598003",
+        "term": "temperatura de esófago (entidad observable)"
+    },
+    {
+        "conceptId": "351000013102",
+        "term": "consulta de cirugía de cabeza y cuello (procedimiento)",
+        "fsn": "consulta de cirugía de cabeza y cuello (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "obesidad periférica (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "248312008",
+        "term": "distribución grasa ginoide"
+    },
+    {
+        "fsn": "evaluación de antecedentes (procedimiento)",
+        "semanticTag": "procedimiento",
+        "term": "evaluación de antecedentes",
+        "conceptId": "371580005"
+    },
+    {
+        "fsn": "obesidad androide (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "238132000",
+        "term": "obesidad androide"
+    },
+    {
+        "fsn": "obesidad central (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "248311001",
+        "term": "obesidad de cara y tronco, extremidades normales"
+    },
+    {
+        "fsn": "exploración y evaluación oftálmica (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "36228007",
+        "term": "exploración y evaluación oftálmica"
+    },
+    {
+        "fsn": "temperatura cutánea (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "364537001",
+        "term": "temperatura cutánea (entidad observable)"
+    },
+    {
+        "fsn": "longitud cabeza-talón (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "276353004",
+        "term": "longitud cabeza-talón (entidad observable)"
+    },
+    {
+        "fsn": "educación sobre cuidado de ostomía (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410091003",
+        "term": "educación sobre cuidado de ostomía"
+    },
+    {
+        "conceptId": "61746007",
+        "term": "registrar los signos vitales del paciente",
+        "fsn": "registrar los signos vitales del paciente (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "hipertensión arterial benigna secundaria (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "194785008",
+        "term": "hipertensión arterial benigna secundaria"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "2591000013106",
+        "term": "consulta de niño sano, a los 3 meses ",
+        "fsn": "consulta de niño sano, a los 3 meses (procedimiento)"
+    },
+    {
+        "fsn": "servicio de infectología (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "310054005",
+        "term": "servicio de infectología"
+    },
+    {
+        "fsn": "hipertensión secundaria a nefropatía, que complica el puerperio Y/O constituye un motivo de atención durante este período (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "39727004",
+        "term": "hipertensión secundaria a nefropatía, que complica el puerperio Y/O constituye un motivo de atención durante este período"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "2601000013103",
+        "term": "consulta de niño sano, a los 21 meses ",
+        "fsn": "consulta de niño sano, a los 21 meses (procedimiento)"
+    },
+    {
+        "conceptId": "46973005",
+        "term": "medir la presión arterial",
+        "fsn": "medir la presión arterial (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "hipertensión arterial vasculorrenal secundaria benigna (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "73410007",
+        "term": "hipertensión arterial vasculorrenal secundaria benigna"
+    },
+    {
+        "fsn": "tensión arterial sistólica deseada (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "315612005",
+        "term": "tensión arterial sistólica deseada"
+    },
+    {
+        "fsn": "síndrome de deficiencia de proopiomelanocortina (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "702949005",
+        "term": "síndrome de deficiencia de proopiomelanocortina (trastorno)"
+    },
+    {
+        "fsn": "obesidad generalizada (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "238134004",
+        "term": "obesidad generalizada"
+    },
+    {
+        "fsn": "oxigenoterapia domiciliaria (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "426990007",
+        "term": "oxigenoterapia domiciliaria (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1861000013105",
+        "term": "consulta de asesoramiento sobre abuso y maltrato de sujeto menor ",
+        "fsn": "consulta de asesoramiento sobre abuso y maltrato de sujeto menor (procedimiento)"
+    },
+    {
+        "conceptId": "168537006",
+        "term": "radiografía simple (procedimiento)",
+        "fsn": "radiografía simple (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "obesidad hiperplásica (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "414438005",
+        "term": "obesidad hiperplásica"
+    },
+    {
+        "fsn": "examen relacionado con el embarazo (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "312891008",
+        "term": "examen relacionado con el embarazo"
+    },
+    {
+        "fsn": "hipertensión en enfermedad renal crónica en estadio 5 debida a diabetes mellitus tipo 2 (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "140101000119109",
+        "term": "hipertensión en enfermedad renal crónica en estadio 5 debida a diabetes mellitus tipo 2"
+    },
+    {
+        "fsn": "hipertensión inducida por el embarazo después del nacimiento (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "40521000119100",
+        "term": "hipertensión inducida por el embarazo después del nacimiento"
+    },
+    {
+        "fsn": "cribado para la detección de fibrosis quística (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "171191008",
+        "term": "pesquisa de fibrosis quística"
+    },
+    {
+        "fsn": "procedimiento administrativo (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "14734007",
+        "term": "actividades de planificación, gestión y capacitación de la organización"
+    },
+    {
+        "fsn": "hipertensión arterial esencial benigna (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "1201005",
+        "term": "hipertensión arterial esencial benigna"
+    },
+    {
+        "fsn": "consulta de niño sano, a las 2 semanas (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410623006",
+        "term": "consulta de niño sano, a las 2 semanas (procedimiento)"
+    },
+    {
+        "fsn": "hipertensión arterial vasculorrenal (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "123799005",
+        "term": "hipertensión arterial vasculorrenal"
+    },
+    {
+        "conceptId": "6951000013108",
+        "fsn": "profesional derivante (persona)",
+        "semanticTag": "persona",
+        "term": "profesional derivante"
+    },
+    {
+        "fsn": "temperatura comparativa en extremidades (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "248458005",
+        "term": "temperatura comparativa en extremidades"
+    },
+    {
+        "fsn": "hipertensión arterial paroxística (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "23130000",
+        "term": "hipertensión arterial paroxística"
+    },
+    {
+        "conceptId": "419891008",
+        "term": "elemento de registro",
+        "fsn": "elemento de registro (elemento de registro)",
+        "semanticTag": "elemento de registro"
+    },
+    {
+        "fsn": "medición de presión sanguínea a nivel del pulso tibial anterior con Doppler (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "446695008",
+        "term": "medición de presión sanguínea a nivel del pulso tibial anterior con Doppler"
+    },
+    {
+        "fsn": "preeclampsia severa (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "46764007",
+        "term": "hipertensión con albuminuria"
+    },
+    {
+        "fsn": "procedimiento de servicios sociales (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410606002",
+        "term": "procedimiento de servicios sociales"
+    },
+    {
+        "fsn": "hipertensión de Goldblatt (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "123800009",
+        "term": "hipertensión de Goldblatt"
+    },
+    {
+        "fsn": "evaluación de salud mental (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "391281002",
+        "term": "evaluación de salud mental"
+    },
+    {
+        "fsn": "emergencia hipertensiva (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "132721000119104",
+        "term": "emergencia hipertensiva (trastorno)"
+    },
+    {
+        "fsn": "evaluación prequirúrgica de riesgo anestésico (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "83874006",
+        "term": "evaluación prequirúrgica, anestesia"
+    },
+    {
+        "fsn": "hipertensión en enfermedad renal crónica en estadio 4 debida a diabetes mellitus tipo 2 (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "140111000119107",
+        "term": "hipertensión en enfermedad renal crónica en estadio 4 debida a diabetes mellitus tipo 2"
+    },
+    {
+        "fsn": "amenaza de eclampsia (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "237282002",
+        "term": "amenaza de eclampsia"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 6 años (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410638007",
+        "term": "consulta de niño sano, a los 6 años (procedimiento)"
+    },
+    {
+        "fsn": "síndrome de hemólisis, enzimas hepáticas elevadas y bajo recuento de plaquetas (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "95605009",
+        "term": "síndrome HELLP (trastorno)"
+    },
+    {
+        "fsn": "presión arterial sistólica no invasiva (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "251070002",
+        "term": "presión arterial sistólica no invasiva"
+    },
+    {
+        "fsn": "presión sistólica mínima de 24 horas (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "314447003",
+        "term": "presión sistólica mínima de 24 horas"
+    },
+    {
+        "fsn": "hipertensión en enfermedad renal crónica en estadio 2 debida a diabetes mellitus tipo 2 (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "140131000119102",
+        "term": "hipertensión en enfermedad renal crónica en estadio 2 debida a diabetes mellitus tipo 2"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "961000013101",
+        "term": "consulta de fibrosis quística ",
+        "fsn": "consulta de fibrosis quística (procedimiento)"
+    },
+    {
+        "fsn": "preeclampsia o eclampsia con hipertensión preexistente con complicaciones posparto (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "199003007",
+        "term": "preeclampsia o eclampsia con hipertensión preexistente con complicaciones posparto"
+    },
+    {
+        "fsn": "procedimiento en el pie (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "118716003",
+        "term": "procedimiento en el pie"
+    },
+    {
+        "fsn": "educación en el cuidado de la diabetes (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "385805005",
+        "term": "educación en el cuidado de la diabetes"
+    },
+    {
+        "fsn": "esclerosis renal con hipertensión (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "14973001",
+        "term": "esclerosis renal con hipertensión"
+    },
+    {
+        "fsn": "obesidad de tipo búfalo (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "360566006",
+        "term": "obesidad de tipo búfalo"
+    },
+    {
+        "fsn": "hipertensión arterial esencial por alto nivel de renina (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "19769006",
+        "term": "hipertensión arterial esencial por alto nivel de renina"
+    },
+    {
+        "fsn": "hipertensión esencial que complica el parto Y/O constituye un motivo de atención durante este procedimiento (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "18416000",
+        "term": "hipertensión esencial que complica el parto Y/O constituye un motivo de atención durante este procedimiento"
+    },
+    {
+        "fsn": "obesidad hipotiroidea (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "53146006",
+        "term": "obesidad hipotiroidea"
+    },
+    {
+        "fsn": "hipertensión en enfermedad renal crónica en estadio 3 debida a diabetes mellitus tipo 2 (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "140121000119100",
+        "term": "hipertensión en enfermedad renal crónica en estadio 3 debida a diabetes mellitus tipo 2"
+    },
+    {
+        "fsn": "presión sanguínea diastólica en sedestación (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "407555005",
+        "term": "presión sanguínea diastólica en sedestación"
+    },
+    {
+        "fsn": "preeclampsia o eclampsia con hipertensión preexistente - nacido con complicación posnatal (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "199000005",
+        "term": "preeclampsia o eclampsia con hipertensión preexistente - nacido con complicación posnatal"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1221000013100",
+        "term": "consulta de nefrología pediátrica ",
+        "fsn": "consulta de nefrología pediátrica (procedimiento)"
+    },
+    {
+        "fsn": "saturación de oxígeno en sangre intracardíaca (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "442381003",
+        "term": "saturación de oxígeno en sangre intracardíaca"
+    },
+    {
+        "fsn": "hipertensión sistólica esencial (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "429457004",
+        "term": "hipertensión sistólica esencial (trastorno)"
+    },
+    {
+        "fsn": "enfermedad renal y cardíaca hipertensiva preexistente que complica embarazo, parto y el puerperio (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "199007008",
+        "term": "enfermedad renal y cardíaca hipertensiva preexistente que complica embarazo, parto y el puerperio (trastorno)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1531000013104",
+        "term": "consulta de nutrición para pacientes diabéticos ",
+        "fsn": "consulta de nutrición para pacientes diabéticos (procedimiento)"
+    },
+    {
+        "conceptId": "16076005",
+        "term": "receta",
+        "fsn": "prescripción (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "408867002",
+        "term": "registro de la frecuencia respiratoria",
+        "fsn": "registro de la frecuencia respiratoria (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "2581000013108",
+        "term": "consulta de niño sano, al mes ",
+        "fsn": "consulta de niño sano, al mes (procedimiento)"
+    },
+    {
+        "fsn": "hipertensión esencial benigna que complica el embarazo, el nacimiento y el puerperio (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "198942000",
+        "term": "hipertensión esencial benigna que complica el embarazo, el nacimiento y el puerperio"
+    },
+    {
+        "fsn": "medición de la tensión arterial con el método del manguito (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "371911009",
+        "term": "medición de la tensión arterial con el método del manguito"
+    },
+    {
+        "fsn": "hipertensión del embarazo sin proteinuria (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "307632004",
+        "term": "hipertensión del embarazo sin proteinuria"
+    },
+    {
+        "fsn": "hipertensión crónica en el contexto obstétrico (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "8762007",
+        "term": "hipertensión crónica en el contexto obstétrico"
+    },
+    {
+        "fsn": "obesidad de inicio en la adultez (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "296526005",
+        "term": "obesidad de inicio en la adultez"
+    },
+    {
+        "fsn": "obesidad en la madre que complica el nacimiento (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "10750551000119100",
+        "term": "obesidad en la madre que complica el nacimiento (trastorno)"
+    },
+    {
+        "fsn": "frecuencia respiratoria total (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "250810003",
+        "term": "frecuencia respiratoria total"
+    },
+    {
+        "fsn": "consulta para cuidados paliativos (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "713281006",
+        "term": "consulta para cuidados paliativos"
+    },
+    {
+        "fsn": "distrofia adiposogenital (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "62999006",
+        "term": "distrofia adiposogenital"
+    },
+    {
+        "fsn": "hipertensión renal que complica embarazo, parto y puerperio - no nacido (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "198953006",
+        "term": "hipertensión renal que complica embarazo, parto y puerperio - no nacido (trastorno)"
+    },
+    {
+        "fsn": "hipertensión renal que complica embarazo, parto y puerperio - nacido con complicación posnatal (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "198952001",
+        "term": "hipertensión renal que complica embarazo, parto y puerperio - nacido con complicación posnatal"
+    },
+    {
+        "fsn": "consulta de finalización de tratamiento termal (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "4411000013107",
+        "term": "consulta de finalización de tratamiento termal"
+    },
+    {
+        "conceptId": "341000013104",
+        "term": "consulta de coloproctología (procedimiento)",
+        "fsn": "consulta de coloproctología (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "preeclampsia grave con complicaciones posparto (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "198986005",
+        "term": "preeclampsia grave con complicaciones posparto"
+    },
+    {
+        "conceptId": "271649006",
+        "term": "presión sistólica",
+        "fsn": "presión sistólica (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "fsn": "preeclampsia grave - no nacido (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "198985009",
+        "term": "preeclampsia grave - no nacido"
+    },
+    {
+        "fsn": "preeclampsia o eclampsia con hipertensión preexistente - no nacido (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "199002002",
+        "term": "preeclampsia o eclampsia con hipertensión preexistente - no nacido"
+    },
+    {
+        "fsn": "hipertensión con albuminuria (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "397748008",
+        "term": "hipertensión con albuminuria (trastorno)"
+    },
+    {
+        "fsn": "obesidad extrema con hipoventilación alveolar (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "190966007",
+        "term": "obesidad extrema por hipoventilación alveolar"
+    },
+    {
+        "fsn": "hipertensión en decúbito supino (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "712832005",
+        "term": "hipertensión en decúbito supino"
+    },
+    {
+        "fsn": "obesidad hipertrófica (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "295509007",
+        "term": "obesidad hipertrófica"
+    },
+    {
+        "fsn": "presión sistólica promedio de 24 horas (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "314449000",
+        "term": "presión sistólica promedio de 24 horas"
+    },
+    {
+        "fsn": "preeclampsia grave - nacido con complicación posnatal (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "198984008",
+        "term": "preeclampsia grave - nacido con complicación posnatal (trastorno)"
+    },
+    {
+        "fsn": "frecuencia respiratoria disparada (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "250878004",
+        "term": "frecuencia respiratoria disparada"
+    },
+    {
+        "fsn": "manejo de tratamiento fonoaudiológico (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410163008",
+        "term": "manejo de tratamiento logopédico"
+    },
+    {
+        "conceptId": "531000013103",
+        "term": "consulta de traumatología de miembro inferior (procedimiento)",
+        "fsn": "consulta de traumatología de miembro inferior (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "56342008",
+        "term": "medir la temperatura del paciente (procedimiento)",
+        "fsn": "medir la temperatura del paciente (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "386725007",
+        "term": "temperatura corporal (entidad observable)",
+        "fsn": "temperatura corporal (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "fsn": "temperatura corporal basal (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "300076005",
+        "term": "temperatura corporal basal"
+    },
+    {
+        "fsn": "temperatura rectal (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "307047009",
+        "term": "temperatura rectal"
+    },
+    {
+        "fsn": "examen urológico (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "302778005",
+        "term": "examen urológico"
+    },
+    {
+        "fsn": "temperatura timpánica (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "415974002",
+        "term": "temperatura timpánica"
+    },
+    {
+        "fsn": "temperatura inguinal (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "415929009",
+        "term": "temperatura inguinal (entidad observable)"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 4 meses (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410626003",
+        "term": "consulta de niño sano, a los 4 meses (procedimiento)"
+    },
+    {
+        "fsn": "temperatura de articulación de hombro (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "364476002",
+        "term": "temperatura de la articulación del hombro"
+    },
+    {
+        "fsn": "percentilo de velocidad de crecimiento (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "248340003",
+        "term": "percentilo de velocidad de crecimiento"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1201000013105",
+        "term": "consulta de control de embarazo de pacientes adolescentes ",
+        "fsn": "consulta de control de embarazo de pacientes adolescentes (procedimiento)"
+    },
+    {
+        "fsn": "temperatura de la articulación de la muñeca (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "364482004",
+        "term": "temperatura de la articulación de la muñeca"
+    },
+    {
+        "fsn": "hipertensión por rebote (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "84094009",
+        "term": "hipertensión por rebote"
+    },
+    {
+        "fsn": "screening de otoemisión acústica neonatal (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "2091000013100",
+        "term": "screening de otoemisión acústica neonatal"
+    },
+    {
+        "conceptId": "310634005",
+        "term": "colonoscopia de control",
+        "fsn": "colonoscopia de control (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "551000013105",
+        "term": "consulta de salud mental (procedimiento)",
+        "fsn": "consulta de salud mental (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "controles del desarrollo infantil (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "281010000",
+        "term": "controles del desarrollo infantil"
+    },
+    {
+        "fsn": "percentilo de circunferencia cefálica del niño (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "170061009",
+        "term": "percentilo de circunferencia cefálica del niño"
+    },
+    {
+        "conceptId": "307818003",
+        "fsn": "seguimiento del peso (régimen/tratamiento)",
+        "semanticTag": "régimen/tratamiento",
+        "term": "seguimiento del peso"
+    },
+    {
+        "fsn": "presión sistólica máxima de 24 horas (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "314448008",
+        "term": "presión sistólica máxima de 24 horas"
+    },
+    {
+        "conceptId": "59621000",
+        "term": "hipertensión arterial esencial (trastorno)",
+        "fsn": "hipertensión arterial esencial (trastorno)",
+        "semanticTag": "trastorno"
+    },
+    {
+        "conceptId": "611000013105",
+        "term": "consulta de traumatología de muñeca (procedimiento)",
+        "fsn": "consulta de traumatología de muñeca (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "obesidad hipogonadal (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "5036006",
+        "term": "obesidad hipogonadal"
+    },
+    {
+        "fsn": "temperatura de rinofaringe (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "698831002",
+        "term": "temperatura de rinofaringe"
+    },
+    {
+        "fsn": "temperatura de la articulación del pulgar (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "364491000",
+        "term": "temperatura de la articulación del pulgar"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1441000013108",
+        "term": "consulta de terapia ocupacional ",
+        "fsn": "consulta de terapia ocupacional (procedimiento)"
+    },
+    {
+        "fsn": "Consulta de dermatología (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "951000013103",
+        "term": "Consulta de dermatología"
+    },
+    {
+        "conceptId": "271000013103",
+        "term": "consulta de neumonología (procedimiento)",
+        "fsn": "consulta de neumonología (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "temperatura de la articulación del tobillo (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "364511004",
+        "term": "temperatura de la articulación del tobillo"
+    },
+    {
+        "conceptId": "310036006",
+        "term": "servicio de cardiología (procedimiento)",
+        "fsn": "servicio de cardiología (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "267104002",
+        "term": "refiere: dolor (hallazgo)",
+        "fsn": "refiere: dolor (hallazgo)",
+        "semanticTag": "hallazgo"
+    },
+    {
+        "fsn": "servicio de reumatología (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "310059000",
+        "term": "servicio de reumatología"
+    },
+    {
+        "fsn": "documento adjunto (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "conceptId": "1921000013108",
+        "term": "documento adjunto"
+    },
+    {
+        "conceptId": "291000013102",
+        "term": "consulta de cardiología (procedimiento)",
+        "fsn": "consulta de cardiología (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "esofagogastroduodenoscopia (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "76009000",
+        "term": "esofagogastroduodenoscopia (procedimiento)"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "991000013109",
+        "term": "consulta de uroginecología ",
+        "fsn": "consulta de uroginecología (procedimiento)"
+    },
+    {
+        "fsn": "obtención de signos vitales en posición erecta (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "425058005",
+        "term": "obtención de signos vitales en posición erecta"
+    },
+    {
+        "fsn": "percentilo de peso del niño (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "170005003",
+        "term": "percentilo de peso del niño"
+    },
+    {
+        "fsn": "presión arterial sistólica de 24 horas (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "314464000",
+        "term": "presión arterial sistólica de 24 horas"
+    },
+    {
+        "fsn": "presión arterial sistólica invasiva (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "251071003",
+        "term": "presión arterial sistólica invasiva"
+    },
+    {
+        "fsn": "educación en cuidados del niño (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "408991007",
+        "term": "educación en cuidados del niño"
+    },
+    {
+        "fsn": "presión arterial sistólica promedio nocturna (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "314445006",
+        "term": "presión arterial sistólica promedio nocturna (entidad observable)"
+    },
+    {
+        "fsn": "oximetría de pulso nocturna (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "252568001",
+        "term": "oximetría de pulso nocturna"
+    },
+    {
+        "fsn": "presión sanguínea sistólica en decúbito (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "407556006",
+        "term": "presión sanguínea sistólica en decúbito"
+    },
+    {
+        "fsn": "tensión arterial sistólica durante la admisión (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "399304008",
+        "term": "tensión arterial sistólica durante la admisión (entidad observable)"
+    },
+    {
+        "conceptId": "461000013106",
+        "term": "consulta de infectología (procedimiento)",
+        "fsn": "consulta de infectología (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "presión sanguínea sistólica en sedestación (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "407554009",
+        "term": "presión sanguínea sistólica en sedestación (entidad observable)"
+    },
+    {
+        "fsn": "revisión de medicación para epilepsia (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "401062003",
+        "term": "revisión de medicación para epilepsia"
+    },
+    {
+        "fsn": "presión sistólica del ventrículo derecho (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "276772001",
+        "term": "presión sistólica del ventrículo derecho"
+    },
+    {
+        "fsn": "presión sistólica del ventrículo izquierdo (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "276780008",
+        "term": "presión sistólica del ventrículo izquierdo"
+    },
+    {
+        "fsn": "presión sistólica pico del ventrículo derecho (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "399023006",
+        "term": "presión sistólica pico del ventrículo derecho"
+    },
+    {
+        "fsn": "oxigenoterapia (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "57485005",
+        "term": "oxigenoterapia"
+    },
+    {
+        "conceptId": "185349003",
+        "term": "consulta por control de salud (procedimiento)",
+        "fsn": "consulta por control de salud (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "tensión arterial sistólica en bipedestación (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "400974009",
+        "term": "tensión arterial sistólica en bipedestación (entidad observable)"
+    },
+    {
+        "conceptId": "5491000013101",
+        "fsn": "evaluación médica inicial del paciente al ingreso a servicio de internación (procedimiento)",
+        "semanticTag": "procedimiento",
+        "term": "evaluación médica inicial del paciente al ingreso a servicio de internación"
+    },
+    {
+        "fsn": "tensión arterial sistólica mínima (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "314438006",
+        "term": "tensión arterial sistólica mínima"
+    },
+    {
+        "fsn": "saturación de oxigenación venosa central (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "713194001",
+        "term": "saturación de oxigenación venosa central"
+    },
+    {
+        "fsn": "saturación de oxígeno en bulbo yugular (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "442386008",
+        "term": "saturación de oxígeno en bulbo yugular (entidad observable)"
+    },
+    {
+        "conceptId": "541000013108",
+        "term": "consulta de reumatología infantil (procedimiento)",
+        "fsn": "consulta de reumatología infantil (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "odontograma (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "conceptId": "3561000013109",
+        "term": "odontograma"
+    },
+    {
+        "fsn": "saturación de oxígeno en conjuntiva (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "373638005",
+        "term": "SpO2 conjuntival (hallazgo)"
+    },
+    {
+        "conceptId": "268565007",
+        "term": "Exámen médico del adulto",
+        "fsn": "examen médico del adulto (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1351000013103",
+        "term": "consulta de planificación familiar ",
+        "fsn": "consulta de planificación familiar (procedimiento)"
+    },
+    {
+        "conceptId": "261000013105",
+        "term": "consulta con especialista en aparato digestivo",
+        "fsn": "consulta con especialista en aparato digestivo",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "Consulta de neumonología pediátrica (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "1231000013102",
+        "term": "Consulta de neumonología pediátrica"
+    },
+    {
+        "fsn": "hipertensión crónica que complica el puerperio Y/O constituye un motivo de atención durante este período (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "24042004",
+        "term": "hipertensión crónica que complica el puerperio Y/O constituye un motivo de atención durante este período"
+    },
+    {
+        "fsn": "obesidad según edad de inicio (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "414918000",
+        "term": "obesidad según edad de inicio"
+    },
+    {
+        "conceptId": "103228002",
+        "term": "saturación de hemoglobina con oxígeno",
+        "fsn": "saturación de hemoglobina con oxígeno (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "fsn": "saturación de oxígeno en sangre venosa (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "442349007",
+        "term": "saturación de oxígeno en sangre venosa (entidad observable)"
+    },
+    {
+        "fsn": "preeclampsia grave - nacido (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "198983002",
+        "term": "preeclampsia grave - nacido (trastorno)"
+    },
+    {
+        "fsn": "saturación de oxígeno en sangre venosa mixta (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "442734002",
+        "term": "saturación de oxígeno en sangre venosa mixta (entidad observable)"
+    },
+    {
+        "fsn": "frecuencia de respiración espontánea (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "271625008",
+        "term": "frecuencia de respiración espontánea"
+    },
+    {
+        "fsn": "temperatura articular (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "250124002",
+        "term": "temperatura articular"
+    },
+    {
+        "fsn": "colonoscopia (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "73761001",
+        "term": "colonoscopia"
+    },
+    {
+        "fsn": "hipertensión preexistente que complica el embarazo, parto y puerperio (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "199005000",
+        "term": "hipertensión preexistente que complica el embarazo, parto y puerperio"
+    },
+    {
+        "fsn": "saturación de oxígeno en vena cava superior (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "442694009",
+        "term": "saturación de oxígeno en vena cava superior"
+    },
+    {
+        "fsn": "hipertensión arterial secundaria a endocrinopatía (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "194788005",
+        "term": "hipertensión arterial secundaria a endocrinopatías"
+    },
+    {
+        "fsn": "obtención de historia clínica (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "84100007",
+        "term": "anamnesis"
+    },
+    {
+        "fsn": "Consulta de oncología pediátrica (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "1331000013105",
+        "term": "Consulta de oncología pediátrica"
+    },
+    {
+        "fsn": "saturación periférica de oxígeno (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "431314004",
+        "term": "saturación periférica de oxígeno (entidad observable)"
+    },
+    {
+        "conceptId": "621000013102",
+        "term": "consulta de traumatologia de columna (procedimiento)",
+        "fsn": "consulta de traumatologia de columna (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "consulta de clínica médica (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "401000013105",
+        "term": "consulta de clínica médica"
+    },
+    {
+        "conceptId": "14456009",
+        "term": "medir la altura del paciente (procedimiento)",
+        "fsn": "medir la altura del paciente (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "temperatura oral (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "415945006",
+        "term": "temperatura oral"
+    },
+    {
+        "fsn": "altura corporal (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "50373000",
+        "term": "altura corporal"
+    },
+    {
+        "conceptId": "6881000013107",
+        "fsn": "evolución de la historia de salud del paciente internado realizada por profesional no médico (procedimiento)",
+        "semanticTag": "procedimiento",
+        "term": "evolución de la historia de salud del paciente internado realizada por profesional no médico"
+    },
+    {
+        "fsn": "hipertensión en el puerperio con edema pulmonar (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "698640000",
+        "term": "hipertensión en el puerperio con edema pulmonar (trastorno)"
+    },
+    {
+        "fsn": "altura del piso al pubis (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "248336007",
+        "term": "altura del piso al pubis"
+    },
+    {
+        "fsn": "altura en posición sedente (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "248335006",
+        "term": "altura estando sentado"
+    },
+    {
+        "fsn": "procedimiento de enfermería (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "9632001",
+        "term": "procedimiento de enfermería"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1821000013104",
+        "term": "consulta de admisión al servicio de salud mental para sujeto menor ",
+        "fsn": "consulta de admisión al servicio de salud mental para sujeto menor (procedimiento)"
+    },
+    {
+        "fsn": "estatura corporal estimada a partir de la medición de la longitud entre la escotadura esternal y el dedo medio de la mano (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "248337003",
+        "term": "susceptibilidad a la muerte en la cuna"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1001000013104",
+        "term": "consulta de embarazo y HIV ",
+        "fsn": "consulta de embarazo y HIV (procedimiento)"
+    },
+    {
+        "fsn": "longitud del cuerpo (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "248334005",
+        "term": "longitud del cuerpo"
+    },
+    {
+        "fsn": "longitud subisquial de la pierna (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "276350001",
+        "term": "longitud subisquial de la pierna"
+    },
+    {
+        "fsn": "evaluación del riesgo de enfermedad cardiovascular (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "441829007",
+        "term": "evaluación del riesgo de enfermedad cardiovascular"
+    },
+    {
+        "conceptId": "561000013107",
+        "term": "consulta de traumatologia de pie (procedimiento)",
+        "fsn": "consulta de traumatologia de pie (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "saturación de oxígeno en sangre arterial (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "442476006",
+        "term": "saturación de oxígeno en sangre arterial (entidad observable)"
+    },
+    {
+        "fsn": "tasa de filtración glomerular (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "80274001",
+        "term": "tasa de filtración glomerular"
+    },
+    {
+        "fsn": "informe (elemento de registro)",
+        "semanticTag": "elemento de registro",
+        "term": "informe",
+        "conceptId": "229059009"
+    },
+    {
+        "fsn": "servicio de neumonología (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "310037002",
+        "term": "servicio de neumonología (procedimiento)"
+    },
+    {
+        "conceptId": "371531000",
+        "term": "informe del encuentro",
+        "fsn": "informe del encuentro (elemento de registro)",
+        "semanticTag": "elemento de registro"
+    },
+    {
+        "fsn": "altura de pie (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "248333004",
+        "term": "altura de pie"
+    },
+    {
+        "fsn": "cribado para papilomavirus humano (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "700152009",
+        "term": "screening para papilomavirus humano"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 18 meses (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410632008",
+        "term": "consulta de niño sano, a los 18 meses (procedimiento)"
+    },
+    {
+        "fsn": "manejo de la atención de accidente cerebrovascular (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "80051000119107",
+        "term": "manejo de la atención de accidente cerebrovascular"
+    },
+    {
+        "fsn": "Consulta de obstetricia (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "1181000013109",
+        "term": "Consulta de obstetricia"
+    },
+    {
+        "fsn": "manejo de los cuidados del adolescente (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "409000006",
+        "term": "manejo de los cuidados del adolescente (procedimiento)"
+    },
+    {
+        "fsn": "examen ginecológico (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "83607001",
+        "term": "examen ginecológico (procedimiento)"
+    },
+    {
+        "conceptId": "107724000",
+        "fsn": "traslado del paciente (procedimiento)",
+        "semanticTag": "procedimiento",
+        "term": "traslado del paciente"
+    },
+    {
+        "fsn": "servicio de genética (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "310048009",
+        "term": "servicio de genética"
+    },
+    {
+        "fsn": "servicio de nefrología (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "310056007",
+        "term": "servicio de nefrología"
+    },
+    {
+        "fsn": "ingreso hospitalario en el servicio de emergencias",
+        "semanticTag": "procedimiento",
+        "conceptId": "50849002",
+        "term": "atención en servicio de emergencia"
+    },
+    {
+        "fsn": "consulta de niño sano, a los 2 años (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "410633003",
+        "term": "consulta de niño sano, a los 2 años"
+    },
+    {
+        "fsn": "hipertensión transitoria del embarazo - no nacido (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "198967002",
+        "term": "hipertensión transitoria del embarazo - no nacido"
+    },
+    {
+        "fsn": "servicio de neurología (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "310057003",
+        "term": "servicio de neurología"
+    },
+    {
+        "fsn": "peso corporal seco (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "445541000",
+        "term": "peso seco"
+    },
+    {
+        "fsn": "servicio de alergia clínica (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "310035005",
+        "term": "servicio de alergia clínica (procedimiento)"
+    },
+    {
+        "fsn": "consulta por dolor crónico (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "420454001",
+        "term": "consulta por dolor crónico (procedimiento)"
+    },
+    {
+        "fsn": "consulta de procedimientos neurológicos (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "2901000013108",
+        "term": "consulta de procedimientos neurológicos"
+    },
+    {
+        "fsn": "procedimiento Y/O servicio odontológico (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "108306002",
+        "term": "procedimiento Y/O servicio odontológico"
+    },
+    {
+        "fsn": "hipertensión arterial diastólica continua (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "59720008",
+        "term": "hipertensión arterial diastólica continua"
+    },
+    {
+        "fsn": "examen y evaluación cardiovascular (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "43038000",
+        "term": "examen y evaluación cardiovascular"
+    },
+    {
+        "fsn": "hipertensión esencial preexistente después del parto (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "40511000119107",
+        "term": "hipertensión esencial preexistente después del parto (trastorno)"
+    },
+    {
+        "fsn": "consulta general e informe de radioterapia (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "65263004",
+        "term": "consulta general e informe de radioterapia"
+    },
+    {
+        "fsn": "método para medir la estatura (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "422769007",
+        "term": "método para medir la estatura"
+    },
+    {
+        "fsn": "cribado para detección de retinopatía del prematuro (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "698349008",
+        "term": "pesquisa para detección de retinopatía del prematuro"
+    },
+    {
+        "fsn": "consulta e informe dermatológicos (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "73007006",
+        "term": "consulta e informe dermatológicos"
+    },
+    {
+        "fsn": "consulta de admisión a tratamiento termal (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "4401000013109",
+        "term": "consulta de admisión a tratamiento termal"
+    },
+    {
+        "conceptId": "414916001",
+        "term": "obesidad (trastorno)",
+        "fsn": "obesidad (trastorno)",
+        "semanticTag": "trastorno"
+    },
+    {
+        "fsn": "evaluación del receptor después del trasplante renal (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "428645009",
+        "term": "evaluación del receptor luego de trasplante renal"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "2451000013101",
+        "term": "consulta de audiologia general ",
+        "fsn": "consulta de audiologia general (procedimiento)"
+    },
+    {
+        "fsn": "hipertensión esencial benigna que complica el embarazo, parto y el puerperio - nacido (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "198944004",
+        "term": "hipertensión esencial benigna que complica el embarazo, parto y el puerperio - nacido (trastorno)"
+    },
+    {
+        "conceptId": "281000013100",
+        "term": "consulta de endocrinología para pacientes transgénero (procedimiento)",
+        "fsn": "consulta de endocrinología para pacientes transgénero (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "alta del paciente (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "58000006",
+        "term": "alta del paciente"
+    },
+    {
+        "fsn": "lactancia (calificador)",
+        "semanticTag": "calificador",
+        "conceptId": "3658006",
+        "term": "lactancia"
+    },
+    {
+        "conceptId": "321000013106",
+        "term": "consulta de cirugía general (procedimiento)",
+        "fsn": "consulta de cirugía general (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "Consulta de diabetes (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "931000013105",
+        "term": "Consulta de diabetes"
+    },
+    {
+        "conceptId": "331000013109",
+        "term": "consulta de cirugía de aparato digstivo superior",
+        "fsn": "consulta de cirugía de aparato digstivo superior",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "361000013100",
+        "term": "consulta de neurocirugía (procedimiento)",
+        "fsn": "consulta de neurocirugía (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "371000013107",
+        "term": "consulta de hematología (procedimiento)",
+        "fsn": "consulta de hematología (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "391000013108",
+        "term": "consulta de medicina general (procedimiento)",
+        "fsn": "consulta de medicina general (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "364075005",
+        "term": "frecuencia cardíaca",
+        "fsn": "frecuencia cardíaca (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "conceptId": "421000013100",
+        "term": "consulta de neurología (procedimiento)",
+        "fsn": "consulta de neurología (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "preeclampsia sobreagregada a hipertensión preexistente (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "67359005",
+        "term": "preeclamsia sobreagregada a hipertensión preexistente"
+    },
+    {
+        "conceptId": "251000013108",
+        "term": "consulta de endocrinología (procedimiento)",
+        "fsn": "consulta de endocrinología (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "441000013107",
+        "term": "consulta de traumatología (procedimiento)",
+        "fsn": "consulta de traumatología (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "hipertensión maligna en el contexto obstétrico (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "81626002",
+        "term": "hipertensión maligna en el contexto obstétrico"
+    },
+    {
+        "conceptId": "471000013104",
+        "term": "consulta de infectología pediátrica (procedimiento)",
+        "fsn": "consulta de infectología pediátrica (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "34043003",
+        "term": "consulta de odontología",
+        "fsn": "consulta de odontología",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1341000013100",
+        "term": "consulta de control de embarazo de alto riesgo ",
+        "fsn": "consulta de control de embarazo de alto riesgo (procedimiento)"
+    },
+    {
+        "conceptId": "431000013102",
+        "term": "consulta de reumatología (procedimiento)",
+        "fsn": "consulta de reumatología (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "consulta de urología (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "2301000013109",
+        "term": "consulta de urología"
+    },
+    {
+        "conceptId": "501000013106",
+        "term": "consulta de otorrinolaringología (procedimiento)",
+        "fsn": "consulta de otorrinolaringología (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "temperatura tomada con termómetro digital (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "431807005",
+        "term": "temperatura tomada con termómetro digital (entidad observable)"
+    },
+    {
+        "conceptId": "491000013103",
+        "term": "consulta de oftalmología (procedimiento)",
+        "fsn": "consulta de oftalmología (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "591000013104",
+        "term": "consulta de traumatología de hombro (procedimiento)",
+        "fsn": "consulta de traumatología de hombro (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "tomar la presión sanguínea arterial del paciente (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "40594005",
+        "term": "tomar la presión sanguínea arterial del paciente"
+    },
+    {
+        "fsn": "saturación de oxígeno en sangre capilar (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "442440005",
+        "term": "saturación de oxígeno en sangre capilar (entidad observable)"
+    },
+    {
+        "conceptId": "631000013104",
+        "term": "consulta prequirúrgica de traumatología (procedimiento)",
+        "fsn": "consulta prequirúrgica de traumatología (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "hipertensión renal parenquimatosa (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "57684003",
+        "term": "hipertensión renal parenquimatosa"
+    },
+    {
+        "conceptId": "651000013106",
+        "term": "consulta de ortopedia (procedimiento)",
+        "fsn": "consulta de ortopedia (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "presión diastólica final del ventrículo izquierdo (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "276781007",
+        "term": "presión diastólica final del ventrículo izquierdo"
+    },
+    {
+        "conceptId": "432678004",
+        "term": "indicación para procedimiento",
+        "fsn": "indicación para procedimiento (entidad observable)",
+        "semanticTag": "entidad observable"
+    },
+    {
+        "conceptId": "661000013108",
+        "term": "evaluación mental previa a cirugía bariátrica (procedimiento)",
+        "fsn": "evaluación mental previa a cirugía bariátrica (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "671000013101",
+        "term": "consulta de cirugía de tórax (procedimiento)",
+        "fsn": "consulta de cirugía de tórax (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1681000013104",
+        "term": "consulta de interrupción legal del embarazo ",
+        "fsn": "consulta de interrupción legal del embarazo (procedimiento)"
+    },
+    {
+        "conceptId": "223493006",
+        "term": "procedimiento de registro",
+        "fsn": "procedimiento de documentación (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "681000013103",
+        "term": "consulta de cirugía vascular (procedimiento)",
+        "fsn": "consulta de cirugía vascular (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "571000013100",
+        "term": "consulta de traumatología de rodilla (procedimiento)",
+        "fsn": "consulta de traumatología de rodilla (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "trastorno del desarrollo psicomotor (hallazgo)",
+        "semanticTag": "hallazgo",
+        "conceptId": "2806008",
+        "term": "desarrollo psicomotor fuera de rango"
+    },
+    {
+        "fsn": "atención en hospital de día para menores (régimen/tratamiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "1971000013109",
+        "term": "atención en hospital de día pediátrico"
+    },
+    {
+        "fsn": "Consulta de ortopedia infantil (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "1431000013103",
+        "term": "Consulta de ortopedia infantil"
+    },
+    {
+        "fsn": "procedimiento de fisioterapia (régimen/tratamiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "91251008",
+        "term": "fisioterapia kinesiologia"
+    },
+    {
+        "fsn": "Consulta de fonoaudiología (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "701000013100",
+        "term": "Consulta de fonoaudiología"
+    },
+    {
+        "fsn": "electrocardiograma ambulatorio (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "164850009",
+        "term": "electrocardiograma ambulatorio"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1451000013105",
+        "term": "consulta de terapia ocupacional pediátrica ",
+        "fsn": "consulta de terapia ocupacional pediátrica (procedimiento)"
+    },
+    {
+        "fsn": "espirometría (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "127783003",
+        "term": "espirometría"
+    },
+    {
+        "fsn": "examen pediátrico: estrabismo (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "170196006",
+        "term": "examen pediátrico: estrabismo"
+    },
+    {
+        "fsn": "electroencefalograma ambulatorio (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "252735006",
+        "term": "electroencefalograma ambulatorio"
+    },
+    {
+        "fsn": "evaluación de la apnea del sueño (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "103750000",
+        "term": "evaluación de la apnea del sueño"
+    },
+    {
+        "fsn": "ventilación no invasiva (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "428311008",
+        "term": "ventilación no invasiva"
+    },
+    {
+        "fsn": "Consulta de psicología (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "1801000013109",
+        "term": "Consulta de psicología"
+    },
+    {
+        "fsn": "consulta de oftalmología infantil (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptActive": true,
+        "conceptId": "2311000013107",
+        "term": "consulta de oftalmología pediátrica"
+    },
+    {
+        "conceptId": "1931000013106",
+        "term": "consulta de evaluación de discapacidad",
+        "fsn": "consulta de evaluación de discapacidad (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "fsn": "síndrome de la almohadilla adiposa (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "238135003",
+        "term": "síndrome de la almohadilla adiposa"
+    },
+    {
+        "fsn": "talla del lactante (entidad observable)",
+        "semanticTag": "entidad observable",
+        "conceptId": "276351002",
+        "term": "talla del lactante"
+    },
+    {
+        "fsn": "hipertensión esencial benigna que complica el embarazo Y/O constituye un motivo de atención durante este período (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "23717007",
+        "term": "hipertensión esencial benigna que complica el embarazo Y/O constituye un motivo de atención durante este período"
+    },
+    {
+        "fsn": "consulta de podología (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "2071000013101",
+        "term": "consulta de podología"
+    },
+    {
+        "fsn": "Consulta de neonatología (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "1151000013101",
+        "term": "Consulta de neonatología "
+    },
+    {
+        "fsn": "Consulta de tocoginecología (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "1141000013103",
+        "term": "Consulta de tocoginecología "
+    },
+    {
+        "fsn": "Consulta sobre pie diabético (procedimiento)",
+        "conceptId": "1791000013108",
+        "semanticTag": "procedimiento",
+        "term": "Consulta sobre pie diabético"
+    },
+    {
+        "semanticTag": "procedimiento",
+        "conceptId": "1011000013101",
+        "term": "consulta de oxigenoterapia domiciliaria ",
+        "fsn": "consulta de oxigenoterapia domiciliaria (procedimiento)"
+    }
+]

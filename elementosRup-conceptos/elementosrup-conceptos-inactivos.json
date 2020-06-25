@@ -1,0 +1,32 @@
+[
+    {
+        "fsn": "procedimiento Y/O servicio odontológico (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "108306002",
+        "term": "procedimiento Y/O servicio odontológico"
+    },
+    {
+        "fsn": "hipertensión renal que complica embarazo, parto y puerperio con complicación posnatal (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "198954000",
+        "term": "hipertensión renal que complica embarazo, parto y puerperio con complicación posnatal"
+    },
+    {
+        "fsn": "hipertensión arterial de origen endocrino (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "59997006",
+        "term": "hipertensión arterial de origen endocrino"
+    },
+    {
+        "fsn": "episodio hipertensivo (trastorno)",
+        "semanticTag": "trastorno",
+        "conceptId": "62275004",
+        "term": "episodio hipertensivo"
+    },
+    {
+        "fsn": "evaluación prequirúrgica de riesgo anestésico (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "83874006",
+        "term": "evaluación prequirúrgica, anestesia"
+    }
+]

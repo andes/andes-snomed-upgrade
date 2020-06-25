@@ -1,0 +1,20 @@
+[
+    {
+        "fsn": "procedimiento Y/O servicio odontológico (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "108306002",
+        "term": "procedimiento Y/O servicio odontológico"
+    },
+    {
+        "fsn": "triaje: telefónico (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "386479004",
+        "term": "triaje: telefónico"
+    },
+    {
+        "fsn": "evaluación prequirúrgica de riesgo anestésico (procedimiento)",
+        "semanticTag": "procedimiento",
+        "conceptId": "83874006",
+        "term": "evaluación prequirúrgica, anestesia"
+    }
+]

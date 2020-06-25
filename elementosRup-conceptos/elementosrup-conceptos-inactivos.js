@@ -1,8 +1,8 @@
 /** 
 
-db.getCollection('elementosRUP') .aggregate([ 
-    { $unwind: '$frecuentes' },
-    { $group: { _id: '$frecuentes.conceptId', concepto: {'$first': '$frecuentes'  } } },
+db.getCollection('elementosRUP').aggregate([
+    { $unwind: '$conceptos' },
+    { $group: { _id: '$conceptos.conceptId', concepto: { $first: '$conceptos' }  } },
     { $replaceRoot : { newRoot: '$concepto' }  },
     { $project: {_id: 0, refsetIds: 0} }
 ]).toArray()
@@ -11,7 +11,7 @@ db.getCollection('elementosRUP') .aggregate([
 
 const jsonfile = require('jsonfile')
 const fetch = require('node-fetch');
-const conceptos = require('./sugeridos.json');
+const conceptos = require('./elementosrup-conceptos.json');
 
 async function main() {
     console.log('Total chunks:', conceptos.length);
@@ -24,8 +24,8 @@ async function main() {
         })
     });
 
-    console.log(JSON.stringify(inactive));
-    // jsonfile.writeFileSync('conceptos-inactivos.json', inactive, { spaces: 4 })
+    // console.log(JSON.stringify(inactive));
+    jsonfile.writeFileSync('elementosrup-conceptos-inactivos.json', inactive, { spaces: 4 })
 }
 
 main();
