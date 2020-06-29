@@ -28,7 +28,7 @@ async function main() {
 main()
 
 async function getMembers(id) {
-    const response = await fetch('http://172.16.80.80:8080/browser/MAIN/ODONTO/NEUQUEN/members?active=true&referencedComponentId=' + id, {
+    const response = await fetch('http://snowtest.andes.gob.ar:8080/browser/MAIN/ODONTO/NEUQUEN/members?active=true&referencedComponentId=' + id, {
         headers: { 'Content-Type': 'application/json', 'Accept-Language': 'es' },
     }).then(res => res.json());
     const { items, referenceSets } = response;
@@ -62,7 +62,7 @@ async function getConcept(id) {
         return cacheConceptos[id];
     }
 
-    const concepto = await fetch('http://172.16.80.80:8080/browser/MAIN/ODONTO/NEUQUEN/concepts/' + id, {
+    const concepto = await fetch('http://snowtest.andes.gob.ar:8080/browser/MAIN/ODONTO/NEUQUEN/concepts/' + id, {
         headers: { 'Content-Type': 'application/json', 'Accept-Language': 'es' },
     }).then(res => res.json());
     cacheConceptos[id] = concepto;

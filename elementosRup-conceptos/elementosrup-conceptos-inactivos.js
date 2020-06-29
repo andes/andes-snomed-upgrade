@@ -32,7 +32,7 @@ main();
 
 async function getConcept(conceptos) {
     const ids = conceptos.map(c => c.conceptId);
-    return await fetch('http://172.16.80.80:8080/browser/MAIN/ODONTO/NEUQUEN/concepts/bulk-load', {
+    return await fetch('http://snowtest.andes.gob.ar:8080/browser/MAIN/ODONTO/NEUQUEN/concepts/bulk-load', {
         method: 'post',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ conceptIds: ids })
