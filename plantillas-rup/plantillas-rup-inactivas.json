@@ -1,0 +1,140 @@
+[
+    {
+        "conceptId": "167575008",
+        "term": "urocultivo para recuento bacteriano, especificado de otra manera",
+        "fsn": "urocultivo para recuento bacteriano, especificado de otra manera (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "241388008",
+        "term": "estudio corporal total con yodo radiactivo I131",
+        "fsn": "estudio corporal total con yodo radiactivo I131 (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "241407000",
+        "term": "estudio con galio 67",
+        "fsn": "estudio con galio 67 (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "241408005",
+        "term": "estudio con galio 67 en altas dosis",
+        "fsn": "estudio con galio 67 en altas dosis (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "241409002",
+        "term": "estudio de leucocitos mixtos con indio 111",
+        "fsn": "estudio de leucocitos mixtos con indio 111 (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "252434009",
+        "term": "estudio cardíaco con Tc - 99m - isonitrito de metoxiisobutilo",
+        "fsn": "estudio cardíaco con Tc - 99m - isonitrito de metoxiisobutilo (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "252435005",
+        "term": "estudio con pirofosfato marcado radiactivamente",
+        "fsn": "estudio con pirofosfato marcado radiactivamente (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "252437002",
+        "term": "estudio con anticuerpos antimiosina marcados radiactivamente",
+        "fsn": "estudio con anticuerpos antimiosina marcados radiactivamente (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "276020003",
+        "term": "estudio de ventilación - perfusión",
+        "fsn": "estudio de ventilación - perfusión (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "276022006",
+        "term": "leucocitos marcados radiactivamente para identificar lesiones inflamatorias gastrointestinales",
+        "fsn": "leucocitos marcados radiactivamente para identificar lesiones inflamatorias gastrointestinales (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "25759006",
+        "term": "centellografía con radioisótopos por nódulo caliente",
+        "fsn": "centellografía con radioisótopos por nódulo caliente (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "33460008",
+        "term": "centellograma con radioisótopos para zona fría",
+        "fsn": "centellograma con radioisótopos para zona fría (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "287988005",
+        "term": "transfusión de sangre para reposición",
+        "fsn": "transfusión de sangre para reposición (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "418873008",
+        "term": "angiografía de ventrículos cardíacos por resonancia magnética",
+        "fsn": "angiografía de ventrículos cardíacos por resonancia magnética (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "442086001",
+        "term": "resonancia magnética nuclear de corazón e hígado para la evaluación de carga cardíaca y hepática de hierro",
+        "fsn": "resonancia magnética nuclear de corazón e hígado para la evaluación de carga cardíaca y hepática de hierro (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "431643001",
+        "term": "estudio radioisotópico de perfusión miocárdica en reposo con imágenes sincronizadas y utilización de iobenguano marcado con tecnecio 99m",
+        "fsn": "estudio radioisotópico de perfusión miocárdica en reposo con imágenes sincronizadas y utilización de iobenguano marcado con tecnecio 99m (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "433149007",
+        "term": "estudio de perfusión miocárdica de esfuerzo con iobenguano marcado con tecnecio 99m",
+        "fsn": "estudio de perfusión miocárdica de esfuerzo con iobenguano marcado con tecnecio 99m (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "433629004",
+        "term": "estudio radioisotópico de perfusión miocárdica en condiciones de estrés con imágenes sincronizadas y utilización de iobenguano marcado con tecnecio 99m",
+        "fsn": "estudio radioisotópico de perfusión miocárdica en condiciones de estrés con imágenes sincronizadas y utilización de iobenguano marcado con tecnecio 99m (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "446182004",
+        "term": "estudio radioisotópico de perfusión miocárdica en reposo con imágenes sincronizadas con utilización de Tc^99m^metoxiisobutilisonitrilo",
+        "fsn": "estudio radioisotópico de perfusión miocárdica en reposo con imágenes sincronizadas con utilización de metoxiisobutilisonitrilo marcado con tecnecio 99m (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "446876004",
+        "term": "estudio radioisotópico de perfusión miocárdica durante el esfuerzo con Tc^99m^ metoxiisobutilisonitrilo",
+        "fsn": "estudio radioisotópico de perfusión miocárdica durante el esfuerzo con metoxiisobutilisonitrilo marcado con tecnecio 99m (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "447586001",
+        "term": "estudio radioisotópico de perfusión miocárdica durante el esfuerzo con imágenes sincronizadas, con Tc^99m^ metoxiisobutilisonitrilo",
+        "fsn": "estudio radioisotópico de perfusión miocárdica durante el esfuerzo con imágenes sincronizadas, con Tc^99m^ metoxiisobutilisonitrilo (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "448292008",
+        "term": "estudio radioisotópico de perfusión miocárdica en condiciones de estrés con utilización de tecnecio Tc^99m^ metoxisobutilisonitrilo y protocolo de prueba de estrés con dipiridamol",
+        "fsn": "estudio radioisotópico de perfusión miocárdica en condiciones de estrés con utilización de tecnecio Tc^99m^ metoxisobutilisonitrilo y protocolo de prueba de estrés con dipiridamol (procedimiento)",
+        "semanticTag": "procedimiento"
+    },
+    {
+        "conceptId": "53835005",
+        "term": "gammagrafía placentaria",
+        "fsn": "gammagrafía placentaria (procedimiento)",
+        "semanticTag": "procedimiento"
+    }
+]
